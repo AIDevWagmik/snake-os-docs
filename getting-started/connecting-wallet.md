@@ -20,17 +20,24 @@ Snake OS supports three wallet paths:
 
 ## Android
 
-| Wallet | How |
-|---|---|
-| **Phantom** | Open Chrome → snake-os.com → tap CONNECT → Phantom → universal-link opens the Phantom mobile app → approve → back in Snake OS connected |
-| **Solflare** | Same flow via Solflare mobile app |
+Android Chrome blocks the direct wallet-app launch that iOS Chrome allows — Google's universal-link policy is stricter. To work around this, Snake OS auto-redirects you into your chosen wallet's in-app browser, which is where the connect handshake actually runs:
 
-If the universal-link redirect doesn't open the wallet on first tap (rare — happens on some Android browsers), the fallback is to open snake-os.com **inside the wallet's in-app browser**:
+1. Open Chrome → snake-os.com → tap **CONNECT**
+2. Pick **Phantom**, **Solflare**, or **Backpack**
+3. You'll be redirected into the wallet's app, with snake-os.com pre-loaded inside its built-in browser
+4. Inside the wallet's browser, tap **CONNECT** again → approve
+5. Done
+
+It's one extra tap compared to iOS, but it's the only reliable path on Android right now.
+
+### If the redirect doesn't fire
+
+Some Android browsers (Samsung Internet, older Chrome versions) may still block the redirect. Manual fallback:
 
 * Phantom → tap the compass / browser tab at the bottom → enter `snake-os.com`
 * Solflare → menu → Browser → enter `snake-os.com`
 
-Connect from there — works every time.
+Then connect normally inside the wallet's browser.
 
 ## After Connecting
 

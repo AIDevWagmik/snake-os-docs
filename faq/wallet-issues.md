@@ -18,14 +18,18 @@ The Phantom in-app browser has a bottom banner that eats viewport. Try this flow
 
 ### Android wallet button doesn't open the wallet
 
-The Phantom / Solflare buttons use Android universal-links. Sometimes those silently fail (depends on Chrome version + how the wallet apps are registered).
+Tap the wallet button → you should be auto-redirected into the wallet's in-app browser with snake-os.com pre-loaded. If nothing happens after 2 seconds:
 
-**Workaround that always works:** open snake-os.com **inside the wallet's in-app browser**:
+* You may be on a browser that blocks all universal-link redirects (Samsung Internet, older Chrome)
+* Or the wallet app isn't installed on this device
 
-* Phantom → bottom-tab compass / browser icon → enter `snake-os.com`
+**Manual fallback (always works):** open snake-os.com directly inside the wallet's built-in browser:
+
+* Phantom → bottom compass / browser icon → enter `snake-os.com`
 * Solflare → menu → Browser → enter `snake-os.com`
+* Backpack → browser tab → enter `snake-os.com`
 
-Then tap CONNECT inside the wallet's browser. The wallet IS the browser at that point — no intent routing, no universal links, just works.
+Connect from there. Once you're inside the wallet's browser, the connect handshake runs normally and is identical to desktop.
 
 ## On Desktop
 
