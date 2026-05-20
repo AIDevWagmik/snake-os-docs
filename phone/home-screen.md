@@ -14,7 +14,7 @@ The home screen is a 3-column grid of all 18 apps. Tap any icon to open. The 5 m
 | ⚔ | **PVP** | Match lobby + wagering |
 | 🏆 | **LEADERBOARD** | Global rankings |
 | ★ | **REWARDS** | PvP claims + season prize + achievement reward center |
-| 💼 | **WALLET** | Your SOL + $SNAKE balance + deposit/withdraw |
+| 💼 | **WALLET** | Your SOL + token balance + deposit/withdraw |
 | 🛒 | **MARKET** | Buy cosmetic items with SOL |
 | 🏅 | **BADGES** | Achievement list + progress |
 | 🔒 | **LOCKER** | Equip skins, arenas, badges, PFPs, powerups |

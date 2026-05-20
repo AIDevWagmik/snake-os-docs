@@ -2,21 +2,21 @@
 
 ## For Users
 
-* **X (Twitter):** [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL) — fastest response
-* **Telegram:** [t.me/snakeOS\_sol](https://t.me/snakeOS_sol)
+* **Telegram (primary support):** [t.me/snakeOS_sol](https://t.me/snakeOS_sol) — use the **support topic** to report bugs, refund issues, or anything else
+* **X:** [@SnakeOS_SOL](https://x.com/SnakeOS_SOL) — announcements + community
 * **In-app:** HELP screen → contact link
 
 ## For Beta Testers (OGs)
 
-You have a direct line to the founder via X DM. Don't hesitate — your feedback is what makes the public launch good.
+You have a direct line to the founder via our Telegram support topic. Don't hesitate — your feedback is what makes the public launch good.
 
 ## For Security Reports
 
-DM us via X with the word "security" in the message. Responsible disclosure of vulnerabilities = bug bounty rewards (amount based on severity).
+Report it in the support topic on Telegram with the word "security" in the message. Responsible disclosure of vulnerabilities = bug bounty rewards (amount based on severity).
 
 ## For Press / Partnerships / KOL Slots
 
-DM via X. Be specific about what you want — vague "partnership" DMs get deprioritized. We're particularly interested in:
+Report it in the support topic on Telegram. Be specific about what you want — vague "partnership" DMs get deprioritized. We're particularly interested in:
 
 * Solana ecosystem cross-promotions
 * Founding-KOL slots for genuine Solana CT accounts who actually play
@@ -33,7 +33,7 @@ If you suspect a payout / refund issue:
 ## What We Will NOT Do
 
 * ❌ DM you first asking for your seed phrase (we never need it)
-* ❌ Promise allocations of $SNAKE in private (fair launch, no presale, ever)
+* ❌ Promise pre-launch allocations of tokens in private (fair launch, no presale, ever)
 * ❌ Send you "verification" links to a fake snake-os.com
 * ❌ Charge you for support
 

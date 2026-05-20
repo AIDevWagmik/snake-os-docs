@@ -32,7 +32,7 @@ Currently no — beta is closed-source while we iterate. Post-launch we plan to 
 
 ## How do I report a bug?
 
-In-app HELP screen has a contact link, or DM us via X [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL). Include:
+In-app HELP screen has a contact link, or post in our [Telegram support topic](https://t.me/snakeOS_sol). Include:
 
 * What you tried to do
 * What happened instead
@@ -42,8 +42,8 @@ In-app HELP screen has a contact link, or DM us via X [@SnakeOS\_SOL](https://x.
 
 ## How do I report a security issue?
 
-DM us via X with the word "security" in the message. We respond fast. Responsible disclosure = bug bounty rewards (we'll set the amount based on severity).
+Report it in the support topic on Telegram with the word "security" in the message. We respond fast. Responsible disclosure = bug bounty rewards (we'll set the amount based on severity).
 
 ## Where's the Discord?
 
-Snake OS doesn't have a Discord yet. We may launch one post-token. For now, the community lives on X around [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL).
+Snake OS doesn't have a Discord yet. We may launch one post-token. For now, the community lives on [Telegram](https://t.me/snakeOS_sol) (with a dedicated support topic) and on X.

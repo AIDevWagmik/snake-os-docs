@@ -69,8 +69,8 @@ It does NOT delete:
 ## Compliance Notes
 
 * We are not subject to GDPR data-deletion requests for on-chain data (it's public + immutable)
-* We will honor data-export requests for your profile data — DM us via X
+* We will honor data-export requests for your profile data — report it in the support topic on Telegram
 
 ## Contact
 
-Privacy questions → DM us at [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL).
+Privacy questions → post in our [Telegram support topic](https://t.me/snakeOS_sol).

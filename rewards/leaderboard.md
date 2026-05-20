@@ -34,6 +34,6 @@ Leaderboard resets at season boundaries (every 90 days). Your lifetime stats sta
 ## Why Solo Counts for Leaderboard but Not Rewards
 
 Leaderboard = "who's the best Snake player." Solo skill counts.
-Rewards = "who's investing in the ecosystem." Only participants (market spend / PvP wagers / $SNAKE holders) qualify.
+Rewards = "who's investing in the ecosystem." Only participants (market spend / PvP wagers / the token holders) qualify.
 
 Two separate axes. See [Reward Eligibility](eligibility.md).

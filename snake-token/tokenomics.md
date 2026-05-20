@@ -28,15 +28,15 @@ The treasury holds 5–10% initially and grows over time via buybacks. Distribut
 
 ### Channel A: Achievement Claims
 
-Active participants claim $SNAKE from the treasury when they unlock achievements. Reward sizes are tiered from 25k to 300k $SNAKE per achievement.
+Active participants claim tokens from the treasury when they unlock achievements. Reward sizes are tiered from 25k to 300k the token per achievement.
 
 ### Channel B: PvP Tournament Buybacks (Weekly)
 
-30% of all PvP settle fees that week → buys $SNAKE from the open market → distributes to top PvP players by ELO.
+30% of all PvP settle fees that week → buys the token from the open market → distributes to top PvP players by ELO.
 
 ### Channel C: Holder Distribution (Weekly)
 
-40% of all PvP settle fees that week → buys $SNAKE → distributes to holders weighted by `holdings × days_held` (anti-flipper formula).
+40% of all PvP settle fees that week → buys the token → distributes to holders weighted by `holdings × days_held` (anti-flipper formula).
 
 ### Channel D: Operations + Reserves
 

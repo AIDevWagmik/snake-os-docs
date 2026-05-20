@@ -24,7 +24,7 @@ Rare but possible (RPC blip, treasury balance momentarily low). When `sendPayout
 
 * The match stays `cancelled` (state already flipped)
 * A `[pvp/lobby sweep] REFUND FAILED` entry is logged with the wallet + amount + match_id
-* The refund needs **manual reconciliation** by ops — DM us via X with your wallet address
+* The refund needs **manual reconciliation** by ops — report it in the support topic on Telegram with your wallet address
 * We **never double-pay** — the CAS guard + deposit-sig uniqueness make that structurally impossible
 
 ## Auto-Cancel for Stuck Matches
@@ -32,6 +32,6 @@ Rare but possible (RPC blip, treasury balance momentarily low). When `sendPayout
 Currently:
 
 * ✅ **`waiting` matches** (nobody joined) → auto-cancel + refund after 5 min via the lobby sweep
-* ❌ **`ready` matches** (both deposited but never started) → NOT auto-cancelled yet. Manual cleanup via admin. If you're stuck in a `ready` match and the opponent ghosts, message us via X with the match ID.
+* ❌ **`ready` matches** (both deposited but never started) → NOT auto-cancelled yet. Manual cleanup via admin. If you're stuck in a `ready` match and the opponent ghosts, please report it in the support topic on Telegram with the match ID.
 
 Post-beta this will be cron-automated.

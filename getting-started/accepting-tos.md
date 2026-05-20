@@ -8,8 +8,8 @@ The full Terms are at [Terms of Service](../legal/tos.md), but the key points:
 
 1. **You're 18+** and not in a sanctioned jurisdiction.
 2. **You understand PvP wagers are real SOL** — your stake goes to our treasury wallet on match start, the winner gets 95% of the combined pot, 5% is the protocol fee.
-3. **$SNAKE token is not live yet** — any "rewards" UI is a placeholder. No tokens accumulate during beta.
-4. **Rewards require participation.** Once $SNAKE launches, token rewards are claimable only by users who (i) made a market purchase, (ii) placed a PvP wager, OR (iii) hold $SNAKE in their wallet. Solo-only accounts get cosmetic badges, not tokens.
+3. **token is not live yet** — any "rewards" UI is a placeholder. No tokens accumulate during beta.
+4. **Rewards require participation.** Once the token launches, token rewards are claimable only by users who (i) made a market purchase, (ii) placed a PvP wager, OR (iii) hold the token in their wallet. Solo-only accounts get cosmetic badges, not tokens.
 5. **You're responsible for your own wallet security** — we never hold your private keys.
 6. **Botting/scripted input/wash-trading** = immediate ban with no refund of in-flight stakes.
 

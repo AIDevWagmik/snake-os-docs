@@ -12,7 +12,7 @@ Every market item is granted to your account for free during the beta period. Th
 
 ## Direct Feedback Channel
 
-OG testers have direct line to the founder via X DM. We respond fast. Your feedback directly shapes the public launch.
+OG testers have direct line to the founder via our Telegram support topic. We respond fast. Your feedback directly shapes the public launch.
 
 ## OG Identity Forever
 
@@ -28,9 +28,9 @@ Future features (more games, governance, mobile app) will roll out to OGs first 
 
 ## What You Don't Get (Just to Be Clear)
 
-* ❌ Pre-allocated $SNAKE tokens (none exist; fair launch)
+* ❌ Pre-allocated the tokens (none exist; fair launch)
 * ❌ Discount on future market items (everyone pays the same SOL post-launch)
-* ❌ Skip the participation gate (OGs still need to be active participants to claim $SNAKE)
+* ❌ Skip the participation gate (OGs still need to be active participants to claim tokens)
 * ❌ Privileged treatment in PvP outcomes (skill only; we'd never)
 * ❌ Admin powers (those are wallet-allowlisted separately)
 

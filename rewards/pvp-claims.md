@@ -34,4 +34,4 @@ PvP claim endpoints use **STRICT_MAX_AGE_MS = 15 minutes** on your signed messag
 * Solana network congestion — try again with higher priority fee (handled automatically)
 * Your signed message expired (>15 min) — re-sign on prompt
 
-If claim fails repeatedly, message us via X with the timestamp.
+If claim fails repeatedly, please report it in the support topic on Telegram with the timestamp.

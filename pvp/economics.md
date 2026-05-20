@@ -56,7 +56,7 @@ You and an opponent each wager **0.5 SOL**:
 ## Where Fees Go
 
 * **30% of settle fees** → Season prize pool (paid to top PvP players each season)
-* **Remaining 70% of settle fees** → Treasury (gas, payout retry buffer, future $SNAKE buybacks)
+* **Remaining 70% of settle fees** → Treasury (gas, payout retry buffer, future token buybacks)
 * **Claim fees** → Treasury
 
 Everything flows back to active participants through one of three channels.

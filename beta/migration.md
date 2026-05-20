@@ -5,7 +5,7 @@ What happens to your beta account when Snake OS goes public.
 ## What Resets at Launch
 
 * **Leaderboard** → resets to Season 1
-* **Pre-launch placeholder $SNAKE balances** → zeroed (they were never real)
+* **Pre-launch placeholder token balances** → zeroed (they were never real)
 * **Beta-granted market items** → wiped (you didn't pay for them)
 
 ## What You Keep
@@ -33,14 +33,14 @@ Pick items that would actually cost real SOL (legendary skins, premium arenas) �
 
 ## When This Happens
 
-The migration runs simultaneously with the $SNAKE token launch (target: Week 3 of the roadmap). On launch day:
+The migration runs simultaneously with the token launch (target: Week 3 of the roadmap). On launch day:
 
 1. Beta period officially ends
 2. Migration script runs
 3. You get a notification: "Beta is over. Pick your 3 launch items in MARKET."
 4. Solo / PvP / market continue running normally
-5. $SNAKE token goes live (separate event same hour)
-6. Real $SNAKE starts accumulating from your post-launch participation
+5. the token goes live (separate event same hour)
+6. Real tokens start accumulating from your post-launch participation
 
 No downtime. You can play through the transition.
 

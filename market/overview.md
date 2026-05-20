@@ -35,7 +35,7 @@ Open the MARKET app for current pricing.
 Buying any market item:
 
 1. Unlocks the cosmetic for permanent use in your Locker
-2. **Qualifies you as an active participant** — unlocks $SNAKE achievement claims (see [Reward Eligibility](../rewards/eligibility.md))
+2. **Qualifies you as an active participant** — unlocks the token achievement claims (see [Reward Eligibility](../rewards/eligibility.md))
 3. Contributes to your `total_market_purchases` stat used by some achievements
 
 Even a single 0.02 SOL powerup purchase converts your account from "spectator" to "participant" for reward purposes.

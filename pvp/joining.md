@@ -23,5 +23,5 @@ The lobby polls every ~20 seconds for new matches. You can also accept a **direc
 ## What If I Join Then Drop?
 
 * If you joined but didn't deposit → no SOL moved, no harm.
-* If you joined + deposited but never readied → the match sits in `ready` until either you or the opponent cancels (refund follows). Currently no auto-cancel for stuck `ready` matches — contact admin via X if this happens.
+* If you joined + deposited but never readied → the match sits in `ready` until either you or the opponent cancels (refund follows). Currently no auto-cancel for stuck `ready` matches — post in our [Telegram support topic](https://t.me/snakeOS_sol) if this happens.
 * If both readied + the game starts + you disconnect mid-game → your score may be 0, opponent wins by default. Refunds don't apply once `playing` starts.

@@ -35,4 +35,4 @@ Per the Terms:
 * **Client modifications** to bypass checks → ban + audit
 * **Exploit reports** → bug-bounty rewards (responsible disclosure)
 
-If you think your account was banned in error, contact us via X [@SnakeOS_SOL](https://x.com/SnakeOS_SOL) with your wallet address — every ban triggers an admin audit log we can review.
+If you think your account was banned in error, report it in our support topic on [Telegram](https://t.me/snakeOS_sol) with your wallet address — every ban triggers an admin audit log we can review.

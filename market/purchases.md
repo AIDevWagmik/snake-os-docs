@@ -26,7 +26,7 @@ If the on-chain verification fails (TX not found yet, wrong amount, wrong destin
 
 * The item is NOT granted
 * Your SOL is still on-chain wherever the TX sent it — usually you didn't actually approve a transfer if the verify failed
-* If you did transfer SOL but the verify failed (e.g., RPC race condition), the SOL went to treasury and you can DM us via X with the TX hash for manual investigation
+* If you did transfer SOL but the verify failed (e.g., RPC race condition), the SOL went to treasury and you can report it in the support topic on Telegram with the TX hash for manual investigation
 
 ## Why On-Chain Verify
 

@@ -14,11 +14,11 @@ You are solely responsible for the security of the Solana wallet you connect. We
 
 When you create or join a PvP match, your declared wager is transferred on-chain to the project treasury wallet. On match settlement, the winner receives 95% of the combined pot (your stake + opponent's stake). The remaining 5% is the protocol fee. An additional 5% claim fee applies at cash-out (net winner payout ≈ 90.25%). If a match is cancelled before play starts, deposited stakes are refunded on-chain.
 
-### 4. $SNAKE rewards — status + eligibility
+### 4. Token Rewards — Status + eligibility
 
-The $SNAKE token has not launched. Any UI element showing "claimable rewards", "earned $SNAKE", or similar pre-launch numbers is a placeholder. **No $SNAKE accumulates during the beta. Pre-launch reward amounts will NOT be honoured.** The reward system starts only after the $SNAKE token is live.
+The token has not launched. Any UI element showing "claimable rewards", "earned tokens", or similar pre-launch numbers is a placeholder. **No tokens accumulate during the beta. Pre-launch reward amounts will NOT be honoured.** The reward system starts only after the token is live.
 
-**Eligibility — participation required.** Once $SNAKE is live, all token rewards (achievement claims, holder distributions, future drops) are available only to active participants. You qualify if you have done at least one of: (i) made a market purchase, (ii) placed a PvP wager (deposited stake into a match), or (iii) held any amount of $SNAKE in the wallet connected to your account. Solo-only accounts that never spend, wager, or hold can still unlock achievements and earn the BETA badge as cosmetic progress, but cannot claim $SNAKE token rewards. Eligibility is re-evaluated on each claim attempt — if you qualify later, achievements unlocked earlier become claimable at that point. This rule exists to align token rewards with active app usage and prevent reward extraction by accounts that never engage with the product.
+**Eligibility — participation required.** Once the token is live, all token rewards (achievement claims, holder distributions, future drops) are available only to active participants. You qualify if you have done at least one of: (i) made a market purchase, (ii) placed a PvP wager (deposited stake into a match), or (iii) held any amount of tokens in the wallet connected to your account. Solo-only accounts that never spend, wager, or hold can still unlock achievements and earn the BETA badge as cosmetic progress, but cannot claim the token rewards. Eligibility is re-evaluated on each claim attempt — if you qualify later, achievements unlocked earlier become claimable at that point. This rule exists to align token rewards with active app usage and prevent reward extraction by accounts that never engage with the product.
 
 ### 5. Closed-beta scope
 
@@ -42,7 +42,7 @@ The game is provided without warranty. We may pause, modify, wipe testing data, 
 
 ### 10. Refunds and disputes
 
-Automatic on-chain refunds run when a match is cancelled before play. For settled-match disputes (e.g. payout TX failed despite a valid winner), contact us via X [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL). We will not unwind a settled match for any reason other than a verifiable on-chain payout failure.
+Automatic on-chain refunds run when a match is cancelled before play. For settled-match disputes (e.g. payout TX failed despite a valid winner), post in our [Telegram support topic](https://t.me/snakeOS_sol). We will not unwind a settled match for any reason other than a verifiable on-chain payout failure.
 
 ### 11. Changes
 

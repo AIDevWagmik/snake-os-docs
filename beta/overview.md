@@ -1,6 +1,6 @@
 # Beta Overview
 
-![Snake OS — closed beta, first 20 OG slots](../images/brand/snake-os-boot-icon.png)
+<img src="../images/brand/snake-os-boot-icon.png" alt="Snake OS — closed beta, first 20 OG slots" width="200">
 
 Snake OS is currently in **closed beta**. The first 20 wallets to accept the Terms get the OG slot + permanent BETA badge.
 
@@ -31,7 +31,7 @@ We're specifically validating:
 ## What Closed Beta Is NOT
 
 * ❌ A token-launch event (token is W3, not now)
-* ❌ A guarantee of $SNAKE rewards from beta play (placeholders only — see [$SNAKE Status](../snake-token/status.md))
+* ❌ A guarantee of token rewards from beta play (placeholders only — see [Token Status](../snake-token/status.md))
 * ❌ A polished public-launch experience (some PNGs may 404, some flows may be rough)
 
-If you're an OG and find something broken, **tell us via the in-app HELP screen or DM us on X [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL)**. Fast feedback = fast fixes.
+If you're an OG and find something broken, **tell us via the in-app HELP screen or report it in our [Telegram support topic](https://t.me/snakeOS_sol)**. Fast feedback = fast fixes.

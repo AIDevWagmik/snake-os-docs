@@ -74,13 +74,13 @@
 * [Season Prize Pool](rewards/season-prize.md)
 * [Reward Eligibility — Read This](rewards/eligibility.md)
 
-## 🪙 $SNAKE Token
+## 🪙 Token
 
 * [Status: Not Live Yet](snake-token/status.md)
 * [Fair Launch on Pump.fun](snake-token/fair-launch.md)
 * [Tokenomics](snake-token/tokenomics.md)
 * [Treasury & Buybacks](snake-token/treasury.md)
-* [Who Earns $SNAKE](snake-token/eligibility.md)
+* [Who Earns Tokens](snake-token/eligibility.md)
 
 ## 🔐 Security
 

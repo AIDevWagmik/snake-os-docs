@@ -27,7 +27,7 @@ You're in. The home screen shows 18 apps.
 3. Hitting walls or yourself = game over.
 4. Your high score saves to the leaderboard.
 
-> **Solo play does NOT earn $SNAKE rewards.** It earns achievements (cosmetic flex). To unlock token rewards, you need to make a market purchase or play a PvP match. See [Reward Eligibility](../rewards/eligibility.md).
+> **Solo play does NOT earn token rewards.** It earns achievements (cosmetic flex). To unlock token rewards, you need to make a market purchase or play a PvP match. See [Reward Eligibility](../rewards/eligibility.md).
 
 ## Minute 4 — Pick a Skin
 

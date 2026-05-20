@@ -33,9 +33,9 @@ Open with key **1** or the SNAKE home-screen icon.
 | Leaderboard rank | ✅ Yes |
 | Achievement unlocks | ✅ Yes (cosmetic) |
 | BETA badge | ✅ Yes (if among first 20) |
-| **$SNAKE token claims** | ❌ **NO** — requires participation |
+| **the token claims** | ❌ **NO** — requires participation |
 
-Solo play matters for your skill and profile, but does not earn $SNAKE rewards. See [Reward Eligibility](../rewards/eligibility.md) for why and how to qualify.
+Solo play matters for your skill and profile, but does not earn token rewards. See [Reward Eligibility](../rewards/eligibility.md) for why and how to qualify.
 
 ## Anti-Cheat
 

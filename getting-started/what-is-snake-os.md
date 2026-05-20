@@ -12,7 +12,7 @@ Play solo to learn the game. When you're ready, wager real SOL in PvP against an
 
 ### 2. The Economy Loop (Market + Locker + Treasury)
 
-Buy cosmetic items in the market with SOL — skins, arenas, badges, powerups. Equip them in your Locker. Every market purchase + PvP fee flows into the treasury, which (post-launch) funds $SNAKE buybacks and prize pools.
+Buy cosmetic items in the market with SOL — skins, arenas, badges, powerups. Equip them in your Locker. Every market purchase + PvP fee flows into the treasury, which (post-launch) funds token buybacks and prize pools.
 
 ### 3. The Discovery Loop (DEGEN + SNIPE + ORACLE + MARKET WATCH)
 
@@ -25,7 +25,7 @@ Together these turn Snake OS from "a game" into a **retro phone-OS for on-chain 
 * Solana players who want skill-based wagering, not pure gambling
 * Memecoin traders who want a single dashboard for discovery + on-chain hygiene
 * Collectors who want cosmetic flex inside a retro aesthetic
-* Future $SNAKE holders who want utility beyond price speculation
+* Future the token holders who want utility beyond price speculation
 
 ## Who It's Not For
 

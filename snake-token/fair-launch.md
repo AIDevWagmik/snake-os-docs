@@ -1,6 +1,6 @@
 # Fair Launch on Pump.fun
 
-$SNAKE launches via **pump.fun's fair-launch mechanism**. Here's what that means.
+the token launches via **pump.fun's fair-launch mechanism**. Here's what that means.
 
 ## What Is a Pump.fun Fair Launch?
 
@@ -37,21 +37,21 @@ Buying more would trip rug-detectors (DexScreener, Birdeye, Sol Sniffer all flag
 
 Post-launch, the treasury grows organically via:
 
-* App fees (PvP settles, market purchases) → converted to $SNAKE via buybacks on PumpSwap
+* App fees (PvP settles, market purchases) → converted to the token via buybacks on PumpSwap
 * This means the treasury can reach 30-50% over 6-12 months — and that's HEALTHY, because:
   * Every increase is funded by real app revenue
   * Every buy is on-chain, transparent, traceable
   * The wallet is publicly labeled
   * It's the OPPOSITE of insider extraction — it's product success flowing back to the protocol
 
-## What Happens to the Treasury $SNAKE
+## What Happens to the Treasury the token
 
 It funds:
 
-1. **Achievement claim rewards** (the $SNAKE airdropped when you claim)
+1. **Achievement claim rewards** (the token airdropped when you claim)
 2. **PvP buyback distributions** (weekly, to top players)
 3. **Holder dividends** (weekly, weighted by holdings × time)
-4. **Season prize buybacks** (post-launch may pay in $SNAKE in addition to SOL)
+4. **Season prize buybacks** (post-launch may pay in tokens in addition to SOL)
 5. **OG / waitlist airdrops** (post-launch, small skin-in-game distributions)
 6. **Operations** (gas, KMS, infra)
 

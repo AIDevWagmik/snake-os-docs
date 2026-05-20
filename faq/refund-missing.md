@@ -16,7 +16,7 @@
 
 This is rare but possible (RPC blip, treasury balance momentarily low). The match is already `cancelled`, but the `sendPayout` call failed.
 
-**Action:** DM us on X [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL) with:
+**Action:** post in our [Telegram support topic](https://t.me/snakeOS_sol) with:
 
 * Your wallet address
 * The match ID (visible in the PVP app history)
@@ -33,4 +33,4 @@ You weren't, structurally. But if your wallet history is confusing:
 2. Find the refund TX (treasury → you) if it processed
 3. Net = 0 if refund processed, or your deposit amount still out if it didn't
 
-DM us with both TX hashes if anything looks off.
+Report both TX hashes in our Telegram support topic if anything looks off.
