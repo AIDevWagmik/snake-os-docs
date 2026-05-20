@@ -20,7 +20,22 @@ Snake OS supports three wallet paths:
 
 ## Android
 
-Android Chrome blocks the direct wallet-app launch that iOS Chrome allows — Google's universal-link policy is stricter. To work around this, Snake OS auto-redirects you into your chosen wallet's in-app browser, which is where the connect handshake actually runs:
+You'll see four options in the wallet picker. Two recommended paths depending on your setup:
+
+### Option 1 — Mobile Wallet Adapter (Solana Mobile Seeker users)
+
+If you're on a **Solana Mobile Seeker** with **Seed Vault**, or any Android device with an MWA-compatible wallet installed:
+
+1. Open Chrome → snake-os.com → tap **CONNECT**
+2. Tap **Mobile Wallet Adapter**
+3. Android shows the system wallet picker → choose Seed Vault / Phantom / Solflare / Backpack
+4. Approve the connection inside the wallet → returned to Snake OS connected
+
+MWA uses Android's native intent system and biometric prompts — most secure path on Solana Mobile.
+
+### Option 2 — Phantom / Solflare / Backpack (other Android users)
+
+If you don't have a Seeker or MWA-compatible wallet, the bare wallet buttons auto-redirect you into the wallet's own in-app browser (Android Chrome blocks the direct app-launch that iOS allows):
 
 1. Open Chrome → snake-os.com → tap **CONNECT**
 2. Pick **Phantom**, **Solflare**, or **Backpack**
@@ -28,7 +43,7 @@ Android Chrome blocks the direct wallet-app launch that iOS Chrome allows — Go
 4. Inside the wallet's browser, tap **CONNECT** again → approve
 5. Done
 
-It's one extra tap compared to iOS, but it's the only reliable path on Android right now.
+One extra tap vs. iOS, but reliable on every Android browser we've tested.
 
 ### If the redirect doesn't fire
 
