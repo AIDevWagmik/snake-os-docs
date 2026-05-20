@@ -1,5 +1,7 @@
 # Beta Overview
 
+![Snake OS — closed beta, first 20 OG slots](../images/brand/snake-os-boot-icon.png)
+
 Snake OS is currently in **closed beta**. The first 20 wallets to accept the Terms get the OG slot + permanent BETA badge.
 
 ## The Cap
