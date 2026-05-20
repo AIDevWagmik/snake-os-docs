@@ -1,5 +1,7 @@
 # MARKET WATCH
 
+![MARKET WATCH — SOL, BTC, ETH and more inside the phone](../images/screenshots/marketwatch-app.png)
+
 Charts for the majors + select memes. Open with key **7** or the MARKET WATCH home icon.
 
 ## Coins Tracked

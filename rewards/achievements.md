@@ -1,5 +1,7 @@
 # Achievements & Badges
 
+![BADGES app — achievement progress + $SNAKE rewards](../images/screenshots/badges-app.png)
+
 The BADGES app shows your achievement progress. Each achievement has:
 
 * Name + description

@@ -1,5 +1,7 @@
 # Connecting Your Wallet
 
+![Snake OS boot/connect screen](../images/screenshots/phone-startup.png)
+
 Snake OS supports three wallet paths:
 
 ## Desktop / Laptop

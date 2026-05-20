@@ -1,5 +1,7 @@
 # $SNAKE Status: NOT LIVE YET
 
+![Snake OS Roadmap — $SNAKE TGE target: Week 3](../images/roadmap/roadmap.png)
+
 > ⚠ **The $SNAKE token has not launched.** Any UI element in Snake OS showing "claimable rewards", "earned $SNAKE", or pre-launch token amounts is a placeholder. **No $SNAKE accumulates during the beta. Pre-launch reward numbers will NOT be honoured.**
 
 The reward system goes live **only after** the $SNAKE token is deployed.

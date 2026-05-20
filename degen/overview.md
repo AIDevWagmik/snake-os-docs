@@ -1,5 +1,7 @@
 # What DEGEN Shows
 
+![DEGEN — live pump.fun migration feed inside Snake OS](../images/screenshots/degen-app.png)
+
 DEGEN is a live feed of Solana memecoins migrating off the pump.fun bonding curve onto PumpSwap/Raydium. These are tokens that hit the ~$69k market cap threshold and just became fully tradable on a DEX.
 
 ## What You See

@@ -1,5 +1,7 @@
 # Creating a PvP Match
 
+![PvP wager screen](../images/screenshots/pvp-wager.png)
+
 ## Step-by-Step
 
 1. Open **PVP** app.

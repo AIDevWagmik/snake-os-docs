@@ -1,5 +1,7 @@
 # Purchase Flow
 
+![Market item detail + purchase view](../images/screenshots/market-app2.png)
+
 ## Step-by-Step
 
 1. Open **MARKET** app.

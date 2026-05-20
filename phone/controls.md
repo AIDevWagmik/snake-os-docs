@@ -1,5 +1,7 @@
 # Navigation & Controls
 
+![Controls reference inside the app](../images/screenshots/controls-app.png)
+
 ## D-Pad
 
 Four directional arrows + center **OK** button.

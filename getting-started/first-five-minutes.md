@@ -1,5 +1,7 @@
 # Your First 5 Minutes
 
+![Snake OS home screen — your starting point](../images/screenshots/homescreen-apps.png)
+
 A fast onboarding for new players:
 
 ## Minute 1 — Connect + Accept

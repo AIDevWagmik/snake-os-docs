@@ -1,5 +1,7 @@
 # Phone Layout
 
+![Snake OS Nokia phone — home screen with all 18 apps](../images/screenshots/homescreen-apps.png)
+
 Snake OS is rendered as a faithful Nokia 3310. The structure top-to-bottom:
 
 | Region | What |

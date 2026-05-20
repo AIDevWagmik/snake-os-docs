@@ -1,5 +1,7 @@
 # Home Screen & Apps
 
+![Snake OS home screen — scroll to see all 18 apps](../images/screenshots/homescreen-apps2.png)
+
 The home screen is a 3-column grid of all 18 apps. Tap any icon to open. The 5 most-used apps also have number-key shortcuts (see [Number Key Shortcuts](number-keys.md)).
 
 ## Complete App List

@@ -1,5 +1,7 @@
 # Number Key Shortcuts
 
+![Number key mappings — the CONTROLS app shows the full reference inside Snake OS](../images/screenshots/controls-app.png)
+
 Press any number key (1-9) for instant app navigation. Works on both desktop keyboard and the on-screen Nokia keypad.
 
 | Key | App | Description |

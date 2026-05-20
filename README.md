@@ -1,5 +1,7 @@
 # Welcome to Snake OS 🐍
 
+![Snake OS — retro Nokia Snake meets Solana PvP](images/brand/snake-os-homescreen-banner.png)
+
 > **Retro Nokia Snake meets Solana PvP wagering.**
 
 Snake OS is a fully on-chain skill game built into a simulated Nokia 3310. Play solo for fun, wager real SOL in PvP matches against other players, collect cosmetics, and (once $SNAKE launches) participate in the broader token economy.

@@ -1,5 +1,7 @@
 # Solo Play
 
+![Snake game in action](../images/screenshots/game-preview.png)
+
 Open with key **1** or the SNAKE home-screen icon.
 
 ## Rules
