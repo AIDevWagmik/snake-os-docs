@@ -4,7 +4,7 @@
 
 ### Solflare in-app browser shows the keypad clipped
 
-Fixed in current build. Phone scales to `min(100vw, 45dvh)` so all 9 keys are visible on every tested wallet browser. If you still see clipping, force-refresh (pull down to reload) — you might be on a stale cache.
+Fixed in current build. Phone scales to `min(100vw, 47dvh)` so all 9 keys are visible on every tested wallet browser. If you still see clipping, force-refresh (pull down to reload) — you might be on a stale cache.
 
 ### Phantom in-app browser direct URL has limited space
 
