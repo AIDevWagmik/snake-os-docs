@@ -20,13 +20,17 @@ Snake OS supports three wallet paths:
 
 ## Android
 
-On Android you'll see **three** options in the wallet picker:
+| Wallet | How |
+|---|---|
+| **Phantom** | Open Chrome → snake-os.com → tap CONNECT → Phantom → universal-link opens the Phantom mobile app → approve → back in Snake OS connected |
+| **Solflare** | Same flow via Solflare mobile app |
 
-* **Mobile Wallet Adapter** — Android's native handoff. Tap it → Android shows a wallet picker → pick your installed wallet (Seed Vault on Seeker, or Phantom / Solflare / Backpack if installed) → approve in the wallet app → returned to Snake OS connected.
-* **Phantom** — direct universal-link to the Phantom mobile app. Use this if MWA doesn't respond on your device.
-* **Solflare** — direct universal-link to the Solflare mobile app. Same fallback idea.
+If the universal-link redirect doesn't open the wallet on first tap (rare — happens on some Android browsers), the fallback is to open snake-os.com **inside the wallet's in-app browser**:
 
-**Which to pick:** MWA first if you have Seed Vault (Seeker) or want to choose between multiple wallets. If MWA dismisses without opening any wallet, fall back to the **Phantom** or **Solflare** button directly — those use universal links that bypass Android's intent system and tend to work reliably from mobile Chrome.
+* Phantom → tap the compass / browser tab at the bottom → enter `snake-os.com`
+* Solflare → menu → Browser → enter `snake-os.com`
+
+Connect from there — works every time.
 
 ## After Connecting
 
