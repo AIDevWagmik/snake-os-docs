@@ -1,0 +1,51 @@
+# Terms of Service — v2
+
+This is the full Terms of Service. By connecting your wallet and accepting these Terms in the app, you agree to all clauses below.
+
+### 1. Eligibility
+
+You must be at least 18 years old and legally permitted in your jurisdiction to play online games involving real currency. You must not be a resident or citizen of any country subject to comprehensive sanctions.
+
+### 2. Wallet ownership
+
+You are solely responsible for the security of the Solana wallet you connect. We never store your private keys. A signed message ("Snake OS - sign in") proves wallet ownership for the duration of one session.
+
+### 3. PvP wagers — real SOL
+
+When you create or join a PvP match, your declared wager is transferred on-chain to the project treasury wallet. On match settlement, the winner receives 95% of the combined pot (your stake + opponent's stake). The remaining 5% is the protocol fee. An additional 5% claim fee applies at cash-out (net winner payout ≈ 90.25%). If a match is cancelled before play starts, deposited stakes are refunded on-chain.
+
+### 4. $SNAKE rewards — status + eligibility
+
+The $SNAKE token has not launched. Any UI element showing "claimable rewards", "earned $SNAKE", or similar pre-launch numbers is a placeholder. **No $SNAKE accumulates during the beta. Pre-launch reward amounts will NOT be honoured.** The reward system starts only after the $SNAKE token is live.
+
+**Eligibility — participation required.** Once $SNAKE is live, all token rewards (achievement claims, holder distributions, future drops) are available only to active participants. You qualify if you have done at least one of: (i) made a market purchase, (ii) placed a PvP wager (deposited stake into a match), or (iii) held any amount of $SNAKE in the wallet connected to your account. Solo-only accounts that never spend, wager, or hold can still unlock achievements and earn the BETA badge as cosmetic progress, but cannot claim $SNAKE token rewards. Eligibility is re-evaluated on each claim attempt — if you qualify later, achievements unlocked earlier become claimable at that point. This rule exists to align token rewards with active app usage and prevent reward extraction by accounts that never engage with the product.
+
+### 5. Closed-beta scope
+
+The first 20 wallets to register are accepted as beta testers and receive every market item free for the beta. PvP still uses real SOL. Existing pre-beta testers are grandfathered. New wallets beyond the cap are rejected.
+
+### 6. Beta data handling
+
+At launch, the leaderboard resets to Season 1. Friend lists, achievements, lifetime stats, and on-chain SOL stay with you. Beta-granted market items are wiped at launch — in exchange you receive 3 free market items of your choice. A permanent "BETA TESTER" badge stays on your profile.
+
+### 7. Fair play
+
+Botting, scripted input, exploiting client bugs, or wash-trading PvP matches is grounds for an immediate ban with no refund of in-flight stakes. We use server-side telemetry to detect this.
+
+### 8. No tax / financial advice
+
+Nothing in Snake OS is investment advice. SOL has monetary value; you may have tax obligations on PvP winnings depending on your jurisdiction. We do not provide tax reporting.
+
+### 9. Provided "as is"
+
+The game is provided without warranty. We may pause, modify, wipe testing data, or end the beta at any time. We are not liable for losses arising from RPC outages, wallet bugs, on-chain congestion, or your own input.
+
+### 10. Refunds and disputes
+
+Automatic on-chain refunds run when a match is cancelled before play. For settled-match disputes (e.g. payout TX failed despite a valid winner), contact us via X [@SnakeOS\_SOL](https://x.com/SnakeOS_SOL). We will not unwind a settled match for any reason other than a verifiable on-chain payout failure.
+
+### 11. Changes
+
+If we materially change these terms, you will be prompted to accept the new version on next sign-in. Continued play after a new version is published implies acceptance.
+
+By clicking ACCEPT in the app, you agree to all the above.
