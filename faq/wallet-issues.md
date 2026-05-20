@@ -16,9 +16,13 @@ The Phantom in-app browser has a bottom banner that eats viewport. Try this flow
 4. Approve there → return to browser
 5. Now Phantom's bottom banner dismisses and the full keypad fits
 
-### Android shows only "Mobile Wallet Adapter" — no Phantom/Solflare buttons
+### MWA dismisses without opening any wallet (Android)
 
-That's intentional. MWA is the canonical Android path; it routes to Phantom, Solflare, or Backpack through the system wallet picker. Tap MWA → pick your wallet in the sheet.
+Sometimes happens on Seeker (Seed Vault dismisses silently) or on Android when Phantom + Solflare are both installed and the intent picker silently fails.
+
+**Workaround:** in the wallet picker, tap **Phantom** or **Solflare** directly instead of "Mobile Wallet Adapter". Those use universal-link deep-links that bypass Android's intent system and reliably open the wallet app from mobile Chrome.
+
+If MWA fails repeatedly, the bare adapters are the fallback. You'll still get the same signed-wallet auth on the Snake OS side.
 
 ## On Desktop
 
