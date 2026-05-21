@@ -1,37 +1,39 @@
 # Beta Overview
 
-<img src="../images/brand/snake-os-boot-icon.png" alt="Snake OS — closed beta, first 20 OG slots" width="200">
+<img src="../images/brand/snake-os-boot-icon.png" alt="Snake OS — open access, BETA badge for first 20 OGs" width="200">
 
-Snake OS is currently in **closed beta**. The first 20 wallets to accept the Terms get the OG slot + permanent BETA badge.
+Snake OS is **open access** — anyone can register, accept the Terms, and play. The first 20 wallets to accept the Terms get the permanent **BETA badge** + every market item granted free for the pre-launch period.
 
-## The Cap
+## The OG Badge
 
-* **20 slots total** during closed beta
-* Slot is claimed atomically on TOS-accept (not on first connect)
+* **20 slots** for the permanent BETA badge
+* Claimed atomically on TOS-accept (not on first connect)
 * Disconnecting before accepting doesn't burn a slot
-* Slot 21 onward sees "Beta is full" and can't continue until we lift the cap
+* Slot 21+ users register normally — no badge, no free items, but full app access
+* The 20 BETA badges are **permanent and non-transferable** — they identify the original closed-beta cohort forever
 
 ## Why 20?
 
-The point of closed beta is **focused feedback from real testers** before exposing the app to a larger audience. 20 active testers, each playing daily, is enough to find every important bug and validate the core loop. More users = more support burden = slower iteration during the highest-leverage phase.
+The closed-beta cap was originally a tester limit for focused early-day feedback. After validating the core loop with the OG cohort, we opened registration to everyone — but kept the badge cap intact to honor the OG promise. The 20 BETA badges become a permanent historical artifact of the very first cohort.
 
-## What Closed Beta Tests
+## What Open Access Tests
 
-We're specifically validating:
+The beta period continues — we're now validating:
 
-* ✅ PvP escrow + race-safety (multiple settlements happening concurrently)
-* ✅ Wallet flow across all wallet types (Phantom, Solflare, MWA)
+* ✅ PvP escrow + race-safety at higher concurrency
+* ✅ Wallet flow scaling (Phantom, Solflare, MWA inside dApp Store app)
 * ✅ UI fit across mobile in-app browsers (Phantom, Solflare, Safari, Chrome)
-* ✅ Anti-cheat on real scores
+* ✅ Anti-cheat at real player volume
 * ✅ Friend/PvP-invite/rematch flows
 * ✅ Achievement + reward eligibility surfaces
 * ✅ ORACLE / DEGEN / SNIPE integration with trustfi + DexScreener
 * ✅ Treasury balance + refund flows
+* ✅ Onboarding for users joining via Solana Mobile dApp Store
 
-## What Closed Beta Is NOT
+## What Beta Period Is NOT
 
 * ❌ A token-launch event (token is W3, not now)
 * ❌ A guarantee of token rewards from beta play (placeholders only — see [Token Status](../snake-token/status.md))
-* ❌ A polished public-launch experience (some PNGs may 404, some flows may be rough)
+* ❌ A polished post-launch experience (some PNGs may 404, some flows may be rough)
 
-If you're an OG and find something broken, **tell us via the in-app HELP screen or report it in our [Telegram support topic](https://t.me/snakeOS_sol)**. Fast feedback = fast fixes.
+Found a bug? **Tell us via the in-app HELP screen or report it in our [Telegram support topic](https://t.me/snakeOS_sol)**. Fast feedback = fast fixes.

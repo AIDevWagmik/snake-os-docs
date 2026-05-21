@@ -20,9 +20,9 @@ The token has not launched. Any UI element showing "claimable rewards", "earned 
 
 **Eligibility — participation required.** Once the token is live, all token rewards (achievement claims, holder distributions, future drops) are available only to active participants. You qualify if you have done at least one of: (i) made a market purchase, (ii) placed a PvP wager (deposited stake into a match), or (iii) held any amount of tokens in the wallet connected to your account. Solo-only accounts that never spend, wager, or hold can still unlock achievements and earn the BETA badge as cosmetic progress, but cannot claim the token rewards. Eligibility is re-evaluated on each claim attempt — if you qualify later, achievements unlocked earlier become claimable at that point. This rule exists to align token rewards with active app usage and prevent reward extraction by accounts that never engage with the product.
 
-### 5. Closed-beta scope
+### 5. Beta scope + OG badge
 
-The first 20 wallets to register are accepted as beta testers and receive every market item free for the beta. PvP still uses real SOL. Existing pre-beta testers are grandfathered. New wallets beyond the cap are rejected.
+Snake OS is in an open-access beta period prior to token launch. Anyone may register and play. The first 20 wallets to accept these Terms receive a permanent "BETA TESTER" badge plus every market item granted free for the pre-launch period. Wallets beyond the first 20 register normally with full app access but do not receive the badge or the free item grant — they buy items via SOL like normal users will post-launch.
 
 ### 6. Beta data handling
 
