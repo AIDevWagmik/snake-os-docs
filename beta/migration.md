@@ -1,12 +1,12 @@
 # Beta-to-Launch Migration
 
-What happens to your beta account when Snake OS goes public.
+What happens to your beta account at the open-access migration / token launch.
 
-## What Resets at Launch
+## What Resets
 
-* **Leaderboard** → resets to Season 1
+* **Leaderboard** → resets to Season 1 at token launch
 * **Pre-launch placeholder token balances** → zeroed (they were never real)
-* **Beta-granted market items** → wiped (you didn't pay for them)
+* **Beta-granted market items** → wiped (these were a free-during-testing benefit, not a permanent entitlement)
 
 ## What You Keep
 
@@ -21,29 +21,15 @@ What happens to your beta account when Snake OS goes public.
 * ✅ Any SOL in your wallet (it was always yours)
 * ✅ Any `claimable_pvp_sol` balance from settled matches (real SOL, paid out as normal)
 
-## What You Get in Exchange for Lost Beta Items
-
-To compensate for the beta-grant wipe, every BETA OG gets:
-
-* **3 free market items of your choice** at launch (pick any from the market)
-* The selection window opens for 7 days post-launch
-* After that window closes, the offer expires
-
-Pick items that would actually cost real SOL (legendary skins, premium arenas) — not the 0.02 SOL powerups you can easily buy.
-
 ## When This Happens
 
-The migration runs simultaneously with the token launch (target: Week 3 of the roadmap). On launch day:
+The full migration runs at two moments:
 
-1. Beta period officially ends
-2. Migration script runs
-3. You get a notification: "Beta is over. Pick your 3 launch items in MARKET."
-4. Solo / PvP / market continue running normally
-5. the token goes live (separate event same hour)
-6. Real tokens start accumulating from your post-launch participation
+1. **Open-access migration** (earlier — when we lift the closed-beta cap): beta-granted items wiped, BETA badge stays. No more invite-only.
+2. **Token launch** (target: Week 3 of the roadmap): leaderboard resets to Season 1, real tokens start accumulating from post-launch activity, full economy goes live.
 
-No downtime. You can play through the transition.
+Both events are non-disruptive — you can play through the transition. Each triggers an in-app notification explaining what changed for your account.
 
-## What If I'm Inactive at Launch?
+## What If I'm Inactive at Migration?
 
-The 3-item picker is held for you for 7 days post-launch. After that, the offer expires. If you reconnect Day 8+ and the offer is gone, your beta items are wiped without compensation. Show up at launch.
+Nothing — your account, badge, friends, and stats are all preserved while you're away. Just sign back in any time after the migration and you're back to playing under the new model.

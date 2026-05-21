@@ -26,7 +26,7 @@ Snake OS is in an open-access beta period prior to token launch. Anyone may regi
 
 ### 6. Beta data handling
 
-At launch, the leaderboard resets to Season 1. Friend lists, achievements, lifetime stats, and on-chain SOL stay with you. Beta-granted market items are wiped at launch — in exchange you receive 3 free market items of your choice. A permanent "BETA TESTER" badge stays on your profile.
+At launch (or earlier open-access migration), the leaderboard resets to Season 1. Friend lists, achievements, lifetime stats, on-chain SOL, and any settled-match winnings stay with you. Beta-granted market items are wiped — beta-grants were a free-during-testing benefit, not a permanent entitlement. A permanent "BETA TESTER" badge stays on your profile as recognition of being part of the original closed-beta cohort.
 
 ### 7. Fair play
 
