@@ -20,22 +20,15 @@ Snake OS supports three wallet paths:
 
 ## Android
 
-You'll see four options in the wallet picker. Two recommended paths depending on your setup:
+The wallet picker changes depending on where you're using Snake OS from:
 
-### Option 1 — Mobile Wallet Adapter (Solana Mobile Seeker users)
+### Inside the Snake OS dApp Store app (Solana Mobile Seeker)
 
-If you're on a **Solana Mobile Seeker** with **Seed Vault**, or any Android device with an MWA-compatible wallet installed:
+You'll see **Mobile Wallet Adapter** as the first option. Tap it → Android shows the system wallet picker → choose **Seed Vault** (or Phantom / Solflare if installed) → biometric / PIN approval → connected. This is the most secure path on Seeker.
 
-1. Open Chrome → snake-os.com → tap **CONNECT**
-2. Tap **Mobile Wallet Adapter**
-3. Android shows the system wallet picker → choose Seed Vault / Phantom / Solflare / Backpack
-4. Approve the connection inside the wallet → returned to Snake OS connected
+### Inside regular Android Chrome (or Samsung Internet, Brave, etc.)
 
-MWA uses Android's native intent system and biometric prompts — most secure path on Solana Mobile.
-
-### Option 2 — Phantom / Solflare / Backpack (other Android users)
-
-If you don't have a Seeker or MWA-compatible wallet, the bare wallet buttons auto-redirect you into the wallet's own in-app browser (Android Chrome blocks the direct app-launch that iOS allows):
+You'll see **Phantom**, **Solflare**, and **Backpack** in the picker. We don't offer MWA here — Android Chrome can't reliably route MWA intents to wallet apps (the prompt fires but Seed Vault never opens). Instead the bare wallet buttons auto-redirect you into the wallet's own in-app browser:
 
 1. Open Chrome → snake-os.com → tap **CONNECT**
 2. Pick **Phantom**, **Solflare**, or **Backpack**
@@ -44,6 +37,8 @@ If you don't have a Seeker or MWA-compatible wallet, the bare wallet buttons aut
 5. Done
 
 One extra tap vs. iOS, but reliable on every Android browser we've tested.
+
+> **Seeker users in plain Chrome:** install the Snake OS dApp Store app for the native MWA → Seed Vault flow. From regular Chrome you can still use Phantom or Solflare if you have those installed.
 
 ### If the redirect doesn't fire
 
