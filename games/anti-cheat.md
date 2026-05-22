@@ -6,11 +6,11 @@ Snake OS uses both **synchronous preflight** and **async session analysis** to d
 
 ## Synchronous Preflight (At Score Submission)
 
-When your game ends and the score posts to `/api/scores/solo` or `/api/pvp/score`:
+When your game ends and the score posts to `/api/scores/solo`, `/api/pvp/score`, `/api/tournament/score`, or `/api/challenge/settle`:
 
 * Server checks game length vs minimum possible time for that score
-* Validates tick rate (≥150ms floor — accounts for SPEED BOOST)
-* Flags impossible "eat rates" (apples per second beyond physical reaction time)
+* Validates tick rate (≥80ms floor — accounts for SPEED BOOST at max level)
+* Flags impossible "eat rates" (score per tick beyond physical maximum: 76 pts/tick)
 * Rejects scores that violate any check before they hit the database
 
 This closes the TOC/TOU window where a cheater could potentially insert a forged score and have it briefly visible.

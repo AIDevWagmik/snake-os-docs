@@ -32,6 +32,8 @@
 * [Wagers, Pots & Fees](pvp/economics.md)
 * [Cancels & Refunds](pvp/cancels.md)
 * [Rematches](pvp/rematches.md)
+* [Challenge Mode](pvp/challenge.md)
+* [Weekly Tournament](pvp/tournament.md)
 
 ## 🛒 Market & Locker
 
