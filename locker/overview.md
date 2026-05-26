@@ -1,6 +1,6 @@
 # Your Locker
 
-![Snake OS LOCKER app — equip skins, badges, PFPs](../images/screenshots/locker-app.png)
+![Snake OS LOCKER app — equip skins, badges, PFPs](../.gitbook/assets/locker-app.png)
 
 The Locker is your cosmetic inventory + equip center. Open with key **9** or the LOCKER home icon.
 
@@ -13,14 +13,14 @@ The Locker is your cosmetic inventory + equip center. Open with key **9** or the
 
 ## Categories (Tabs)
 
-| Tab | What |
-|---|---|
-| **PFP** | Profile pictures — pick which avatar shows in friends/chat |
-| **SKIN** | Snake appearance |
-| **THEME** | (Future) Phone shell themes |
-| **BACKGROUND** | Game arenas |
-| **BADGE** | Profile flair badge (1 active) |
-| **ITEM** | Powerups (up to 4 active) |
+| Tab            | What                                                       |
+| -------------- | ---------------------------------------------------------- |
+| **PFP**        | Profile pictures — pick which avatar shows in friends/chat |
+| **SKIN**       | Snake appearance                                           |
+| **THEME**      | (Future) Phone shell themes                                |
+| **BACKGROUND** | Game arenas                                                |
+| **BADGE**      | Profile flair badge (1 active)                             |
+| **ITEM**       | Powerups (up to 4 active)                                  |
 
 ## What "Owned" Means
 

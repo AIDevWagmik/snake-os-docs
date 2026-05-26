@@ -1,5 +1,7 @@
 # Snake Skins
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104742.png" alt=""><figcaption></figcaption></figure>
+
 Skins are purely cosmetic — they change your snake's appearance without affecting gameplay.
 
 ## Free Starter Skins (Everyone)

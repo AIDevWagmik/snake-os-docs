@@ -1,6 +1,6 @@
 # Solo Play
 
-![Snake game in action](../images/screenshots/game-preview.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104506 (1).png" alt=""><figcaption></figcaption></figure>
 
 Open with key **1** or the SNAKE home-screen icon.
 
@@ -27,12 +27,12 @@ Open with key **1** or the SNAKE home-screen icon.
 
 ## What Solo Earns You
 
-| Reward | Solo earns it? |
-|---|---|
-| High score record | ✅ Yes |
-| Leaderboard rank | ✅ Yes |
-| Achievement unlocks | ✅ Yes (cosmetic) |
-| BETA badge | ✅ Yes (if among first 20) |
+| Reward               | Solo earns it?                    |
+| -------------------- | --------------------------------- |
+| High score record    | ✅ Yes                             |
+| Leaderboard rank     | ✅ Yes                             |
+| Achievement unlocks  | ✅ Yes (cosmetic)                  |
+| BETA badge           | ✅ Yes (if among first 20)         |
 | **the token claims** | ❌ **NO** — requires participation |
 
 Solo play matters for your skill and profile, but does not earn token rewards. See [Reward Eligibility](../rewards/eligibility.md) for why and how to qualify.

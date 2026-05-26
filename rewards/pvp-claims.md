@@ -1,6 +1,6 @@
 # PvP Claims
 
-![REWARDS app — claim PvP winnings + check season prize](../images/screenshots/rewards-app.png)
+![REWARDS app — claim PvP winnings + check season prize](../.gitbook/assets/rewards-app.png)
 
 When you win a PvP match, your winnings accrue to your `claimable_pvp_sol` balance. You withdraw via the REWARDS app.
 
@@ -25,7 +25,7 @@ The balance is debited BEFORE the on-chain send. If the send fails, the balance 
 
 ## Strict Time-Window
 
-PvP claim endpoints use **STRICT_MAX_AGE_MS = 15 minutes** on your signed message — your auth signature must be ≤15 min old to claim. This means you may be re-prompted to sign right before claiming if your session is old. Just a security floor on money-moving endpoints.
+PvP claim endpoints use **STRICT\_MAX\_AGE\_MS = 15 minutes** on your signed message — your auth signature must be ≤15 min old to claim. This means you may be re-prompted to sign right before claiming if your session is old. Just a security floor on money-moving endpoints.
 
 ## When You Can't Claim
 

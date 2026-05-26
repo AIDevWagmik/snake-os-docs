@@ -1,6 +1,6 @@
 # Beta Overview
 
-<img src="../images/brand/snake-os-boot-icon.png" alt="Snake OS — open access, BETA badge for first 20 OGs" width="200">
+<img src="../.gitbook/assets/snake-os-boot-icon.png" alt="Snake OS — open access, BETA badge for first 20 OGs" width="200">
 
 Snake OS is **open access** — anyone can register, accept the Terms, and play. The first 20 wallets to accept the Terms get the permanent **BETA badge** + every market item granted free for the pre-launch period.
 
@@ -36,4 +36,4 @@ The beta period continues — we're now validating:
 * ❌ A guarantee of token rewards from beta play (placeholders only — see [Token Status](../snake-token/status.md))
 * ❌ A polished post-launch experience (some PNGs may 404, some flows may be rough)
 
-Found a bug? **Tell us via the in-app HELP screen or report it in our [Telegram support topic](https://t.me/snakeOS_sol)**. Fast feedback = fast fixes.
+Found a bug? **Tell us via the in-app HELP screen or report it in our** [**Telegram support topic**](https://t.me/snakeOS_sol). Fast feedback = fast fixes.

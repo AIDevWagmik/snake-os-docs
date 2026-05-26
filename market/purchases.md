@@ -1,6 +1,6 @@
 # Purchase Flow
 
-![Market item detail + purchase view](../images/screenshots/market-app2.png)
+![Market item detail + purchase view](../.gitbook/assets/market-app2.png)
 
 ## Step-by-Step
 

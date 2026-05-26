@@ -1,21 +1,23 @@
 # Connecting Your Wallet
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104010.png" alt=""><figcaption></figcaption></figure>
+
 Snake OS supports three wallet paths:
 
 ## Desktop / Laptop
 
-| Wallet | How |
-|---|---|
-| **Phantom** | Install [Phantom](https://phantom.app) browser extension → click CONNECT on Snake OS → approve in popup |
-| **Solflare** | Install [Solflare](https://solflare.com) extension → CONNECT → approve |
+| Wallet       | How                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- |
+| **Phantom**  | Install [Phantom](https://phantom.app) browser extension → click CONNECT on Snake OS → approve in popup           |
+| **Solflare** | Install [Solflare](https://solflare.com) extension → CONNECT → approve                                            |
 | **Backpack** | Install [Backpack](https://backpack.app) → CONNECT → approve. Backpack will appear as a Phantom-compatible option |
 
 ## iOS
 
-| Wallet | How |
-|---|---|
-| **Phantom** | Open Safari → snake-os.com → tap CONNECT → choose Phantom → confirm in Phantom app (universal link) |
-| **Solflare** | Same flow via Solflare app |
+| Wallet              | How                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Phantom**         | Open Safari → snake-os.com → tap CONNECT → choose Phantom → confirm in Phantom app (universal link)       |
+| **Solflare**        | Same flow via Solflare app                                                                                |
 | **In-app browsers** | You can also open snake-os.com directly inside Phantom or Solflare's built-in browser. Works the same way |
 
 ## Android

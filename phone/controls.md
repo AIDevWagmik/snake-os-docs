@@ -1,24 +1,24 @@
 # Navigation & Controls
 
-![Controls reference inside the app](../images/screenshots/controls-app.png)
+![Controls reference inside the app](../.gitbook/assets/controls-app.png)
 
 ## D-Pad
 
 Four directional arrows + center **OK** button.
 
-| Use | What it does |
-|---|---|
-| In Snake game | Turn the snake (up/down/left/right) |
-| In other apps | Scroll content (up/down), navigate tabs (left/right) |
-| Center OK | Confirm / select / pause |
-| On home screen | Move focus between app icons |
+| Use            | What it does                                         |
+| -------------- | ---------------------------------------------------- |
+| In Snake game  | Turn the snake (up/down/left/right)                  |
+| In other apps  | Scroll content (up/down), navigate tabs (left/right) |
+| Center OK      | Confirm / select / pause                             |
+| On home screen | Move focus between app icons                         |
 
 ## Softkeys
 
-| Button | What |
-|---|---|
-| **↩ BACK** | Return to home screen from any app |
-| **⏻ END** | Power off the phone (returns to boot screen — useful for switching wallets) |
+| Button     | What                                                                        |
+| ---------- | --------------------------------------------------------------------------- |
+| **↩ BACK** | Return to home screen from any app                                          |
+| **⏻ END**  | Power off the phone (returns to boot screen — useful for switching wallets) |
 
 ## Quick Tips
 

@@ -1,6 +1,6 @@
 # Achievements & Badges
 
-![BADGES app — achievement progress + token rewards](../images/screenshots/badges-app.png)
+![BADGES app — achievement progress + token rewards](../.gitbook/assets/badges-app.png)
 
 The BADGES app shows your achievement progress. Each achievement has:
 
@@ -13,12 +13,12 @@ The BADGES app shows your achievement progress. Each achievement has:
 
 ## Achievement Categories
 
-| Type | Examples | Reward Tier |
-|---|---|---|
-| **Capital** | wager_sol_total, market_purchase, skins_owned | 25K – 150K the token |
-| **Skill** | pvp_wins, rank_reached, score_reached | 25K – 300K the token |
-| **Social** | friends_count, emotes_used | 25K the token |
-| **Cosmetic** | Equipped market badges | 25K the token |
+| Type         | Examples                                          | Reward Tier          |
+| ------------ | ------------------------------------------------- | -------------------- |
+| **Capital**  | wager\_sol\_total, market\_purchase, skins\_owned | 25K – 150K the token |
+| **Skill**    | pvp\_wins, rank\_reached, score\_reached          | 25K – 300K the token |
+| **Social**   | friends\_count, emotes\_used                      | 25K the token        |
+| **Cosmetic** | Equipped market badges                            | 25K the token        |
 
 Top-tier achievements (rank #1 reached, 100+ PvP wins, 10+ SOL wagered) pay the most — they're hardest to grind.
 

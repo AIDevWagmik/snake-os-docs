@@ -1,19 +1,19 @@
 # The Market
 
-![Snake OS MARKET app](../images/screenshots/market-app.png)
+![Snake OS MARKET app](../.gitbook/assets/market-app.png)
 
 Snake OS's market sells **cosmetic items** — skins, arenas, badges, powerups. Items are purchased with SOL and remain in your account permanently (subject to beta-grant wipe at public launch — see [Beta-to-Launch Migration](../beta/migration.md)).
 
 ## Item Categories
 
-| Category | What |
-|---|---|
-| **Skins** | Visual snake appearance |
-| **Arenas** | Game background environments |
-| **Badges** | Profile flair (1 active at a time, visible in friends/leaderboard/chat) |
-| **Powerups** | In-game consumable effects (up to 4 equipped) |
-| **Packs** | Bundles of multiple items at a discount |
-| **PFPs** | Profile pictures (visible in friends/chat) |
+| Category     | What                                                                    |
+| ------------ | ----------------------------------------------------------------------- |
+| **Skins**    | Visual snake appearance                                                 |
+| **Arenas**   | Game background environments                                            |
+| **Badges**   | Profile flair (1 active at a time, visible in friends/leaderboard/chat) |
+| **Powerups** | In-game consumable effects (up to 4 equipped)                           |
+| **Packs**    | Bundles of multiple items at a discount                                 |
+| **PFPs**     | Profile pictures (visible in friends/chat)                              |
 
 ## Pricing
 

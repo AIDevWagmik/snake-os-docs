@@ -1,4 +1,6 @@
-# Arenas (Backgrounds)
+# Arenas
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104815.png" alt=""><figcaption></figcaption></figure>
 
 Arenas are the playfield backgrounds — they change the visual environment without affecting hitboxes or game logic.
 

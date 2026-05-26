@@ -1,6 +1,6 @@
 # How PvP Works
 
-![PvP wager setup — real Solana mainnet SOL](../images/screenshots/pvp-wager.png)
+![PvP wager setup — real Solana mainnet SOL](../.gitbook/assets/pvp-wager.png)
 
 **PvP wagers use real Solana mainnet SOL.** Read this entire page before depositing.
 
@@ -18,12 +18,12 @@
 
 ## Match States
 
-| State | Meaning |
-|---|---|
-| `waiting` | Created, opponent not yet joined |
-| `ready` | Both joined + both deposited |
-| `playing` | Both clicked READY, game in progress |
-| `settled` | Both scored, winner determined, fee taken |
+| State       | Meaning                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| `waiting`   | Created, opponent not yet joined                                        |
+| `ready`     | Both joined + both deposited                                            |
+| `playing`   | Both clicked READY, game in progress                                    |
+| `settled`   | Both scored, winner determined, fee taken                               |
 | `cancelled` | Cancelled by creator or auto-cancelled at 5min idle (refunds processed) |
 
 ## Economics in 60 Seconds

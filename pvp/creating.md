@@ -1,6 +1,6 @@
-# Creating a PvP Match
+# Creating a Match
 
-![PvP wager screen](../images/screenshots/pvp-wager.png)
+![PvP wager screen](../.gitbook/assets/pvp-wager.png)
 
 ## Step-by-Step
 
@@ -17,7 +17,7 @@
 
 If no opponent joins within **5 minutes**, the system auto-cancels your match and refunds your deposit on-chain. You'll get a notification:
 
-> *"PvP match expired — wager refunded. Nobody joined within 5 minutes. Your X SOL wager has been refunded."*
+> _"PvP match expired — wager refunded. Nobody joined within 5 minutes. Your X SOL wager has been refunded."_
 
 The refund TX signature is included in the notification.
 

@@ -1,6 +1,6 @@
-# Welcome to Snake OS 🐍
+# 🐍 Welcome to Snake OS
 
-<img src="images/brand/snake-os-homescreen-banner.png" alt="Snake OS" width="420">
+![Snake OS](<.gitbook/assets/Screenshot 2026-05-26 103559.png>)
 
 > **Retro Nokia Snake meets Solana PvP wagering.**
 
@@ -8,7 +8,7 @@ Snake OS is a fully on-chain skill game built into a simulated Nokia 3310. Play 
 
 ## What Makes It Different
 
-* 🎮 **Real game, real wagers** — PvP matches escrowed on Solana mainnet. Winner nets ~94% of the combined pot. Challenge mode pays out instantly on win. Weekly tournaments split the pot by finish position.
+* 🎮 **Real game, real wagers** — PvP matches escrowed on Solana mainnet. Winner nets \~94% of the combined pot. Challenge mode pays out instantly on win. Weekly tournaments split the pot by finish position.
 * 📱 **Retro phone UI** — 18 apps inside one Nokia shell. Number keys, D-pad, no clutter.
 * 🪙 **Fair launch token** — the token will launch on pump.fun with no presale, no team allocation, no insider unlocks. Target: Week 3 of the public roadmap.
 * 🚫 **No airdrop farming** — Rewards are gated to active participants (PvP wagers, market spend, or tokens held). Solo grinders get cosmetic badges, not tokens.
@@ -29,6 +29,6 @@ Snake OS is a fully on-chain skill game built into a simulated Nokia 3310. Play 
 
 > **Beta is capped at 20 OG slots.** First 20 wallets to accept the Terms get the permanent BETA badge — forever a flex that can never be earned again after public launch.
 
----
+***
 
-*Built on Solana mainnet. Custodial escrow during beta, transitioning to KMS / multi-sig at scale. Domain: [snake-os.com](https://snake-os.com).*
+_Built on Solana mainnet. Custodial escrow during beta, transitioning to KMS / multi-sig at scale. Domain:_ [_snake-os.com_](https://snake-os.com)_._

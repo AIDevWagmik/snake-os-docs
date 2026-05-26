@@ -1,6 +1,6 @@
 # Your First 5 Minutes
 
-![Snake OS home screen — your starting point](../images/screenshots/homescreen-apps.png)
+![Snake OS home screen — your starting point](<../.gitbook/assets/Screenshot 2026-05-26 103742 (1).png>)
 
 A fast onboarding for new players:
 

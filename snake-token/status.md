@@ -1,6 +1,6 @@
-# Token Status: NOT LIVE YET
+# Status: Not Live Yet
 
-![Snake OS Roadmap — Token TGE target: Week 3](../images/roadmap/roadmap.png)
+![Snake OS Roadmap — Token TGE target: Week 3](../.gitbook/assets/roadmap.png)
 
 > ⚠ **The token has not launched.** Any UI element in Snake OS showing "claimable rewards", "earned tokens", or pre-launch token amounts is a placeholder. **No tokens accumulate during the beta. Pre-launch reward numbers will NOT be honoured.**
 
@@ -10,13 +10,13 @@ The reward system goes live **only after** the token is deployed.
 
 We're following the public roadmap:
 
-| Phase | Status |
-|---|---|
+| Phase                | Status      |
+| -------------------- | ----------- |
 | **W1 — Closed Beta** | 🟢 LIVE NOW |
-| W2 — Hype / Waitlist | Upcoming |
-| W3 — Token Launch | Target |
-| M2 — Season 1 | Post-launch |
-| M3+ — Platform | Long-term |
+| W2 — Hype / Waitlist | Upcoming    |
+| W3 — Token Launch    | Target      |
+| M2 — Season 1        | Post-launch |
+| M3+ — Platform       | Long-term   |
 
 ## What Happens When Token Launches
 

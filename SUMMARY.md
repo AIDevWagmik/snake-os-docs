@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-* [Welcome to Snake OS](README.md)
+* [🐍 Welcome to Snake OS](README.md)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@
 * [Powerups](games/powerups.md)
 * [Anti-Cheat & Fair Play](games/anti-cheat.md)
 
-## ⚔ PvP — Real SOL Wagering
+## ⚔️ PvP — Real SOL Wagering
 
 * [How PvP Works](pvp/overview.md)
 * [Creating a Match](pvp/creating.md)
@@ -97,7 +97,7 @@
 * [OG Benefits](beta/og-benefits.md)
 * [Beta-to-Launch Migration](beta/migration.md)
 
-## 🛠 Troubleshooting & FAQ
+## 🛠️ Troubleshooting & FAQ
 
 * [Wallet Won't Connect](faq/wallet-issues.md)
 * [PvP Match Stuck](faq/pvp-stuck.md)

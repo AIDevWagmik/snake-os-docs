@@ -1,6 +1,6 @@
 # Global Chat
 
-![Snake OS CHAT — one global feed for all OGs](../images/screenshots/chat-app.png)
+![Snake OS CHAT — one global feed for all OGs](../.gitbook/assets/chat-app.png)
 
 The CHAT app is a single global feed visible to all Snake OS users. Open with key **8** or the CHAT home icon.
 

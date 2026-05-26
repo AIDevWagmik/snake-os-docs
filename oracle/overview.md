@@ -1,6 +1,6 @@
 # What ORACLE Does
 
-![ORACLE — AI risk scanner + chat](../images/screenshots/oracle-app.png)
+![ORACLE — AI risk scanner + chat](../.gitbook/assets/oracle-app.png)
 
 ORACLE is Snake OS's built-in AI assistant + Solana token risk scanner. Two modes in one app:
 
@@ -24,7 +24,7 @@ This path uses Gemini 2.5 Flash (with DeepSeek V3 fallback) and **does cost real
 
 * **20 requests per minute** per IP (anti-burst)
 * **40 messages per day per wallet** (personal cap)
-* **2000 messages per day globally** (hard ceiling so IP-rotation abuse can't run the bill past ~$1-2/day)
+* **2000 messages per day globally** (hard ceiling so IP-rotation abuse can't run the bill past \~$1-2/day)
 
 These limits are cost-control, not monetization. Token scans stay free + unlimited even if you hit your chat cap.
 

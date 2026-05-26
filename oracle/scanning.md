@@ -1,6 +1,6 @@
 # Scanning a Contract
 
-![ORACLE risk scan in action](../images/screenshots/oracle-app.png)
+![ORACLE risk scan in action](../.gitbook/assets/oracle-app.png)
 
 ## How to Scan
 
@@ -37,11 +37,11 @@ The combined verdict logic re-derives from real on-chain liquidity + 24h volume,
 
 ## Risk Verdict Tiers
 
-| Verdict | Score | What it means |
-|---|---|---|
-| ✓ **SAFE** | 0–25 | Standard hygiene checks all green |
-| ⚠ **CAUTION** | 26–55 | Some yellow flags, due diligence recommended |
-| ⚠ **RISKY** | 56–80 | Multiple red flags, treat as speculative |
+| Verdict          | Score  | What it means                                       |
+| ---------------- | ------ | --------------------------------------------------- |
+| ✓ **SAFE**       | 0–25   | Standard hygiene checks all green                   |
+| ⚠ **CAUTION**    | 26–55  | Some yellow flags, due diligence recommended        |
+| ⚠ **RISKY**      | 56–80  | Multiple red flags, treat as speculative            |
 | ✗ **LIKELY RUG** | 81–100 | Severe concentration / authority / liquidity issues |
 
 The scan is **informational**, not financial advice. ORACLE never says "buy" or "sell" — it surfaces signals, you decide.
