@@ -6,14 +6,16 @@ Snake OS's market sells **cosmetic items** — skins, arenas, badges, powerups. 
 
 ## Item Categories
 
-| Category     | What                                                                    |
-| ------------ | ----------------------------------------------------------------------- |
-| **Skins**    | Visual snake appearance                                                 |
-| **Arenas**   | Game background environments                                            |
-| **Badges**   | Profile flair (1 active at a time, visible in friends/leaderboard/chat) |
-| **Powerups** | In-game consumable effects (up to 4 equipped)                           |
-| **Packs**    | Bundles of multiple items at a discount                                 |
-| **PFPs**     | Profile pictures (visible in friends/chat)                              |
+| Category       | What                                                                    |
+| -------------- | ----------------------------------------------------------------------- |
+| **Skin**       | Visual snake appearance                                                 |
+| **Theme**      | Phone shell colors / vibes                                              |
+| **Background** | Game arena backgrounds                                                  |
+| **Badge**      | Profile flair (1 active at a time, visible in friends/leaderboard/chat) |
+| **Item**       | In-game consumable effects / powerups                                   |
+| **Bundle**     | Multiple items at a discount                                            |
+
+The Market app tab strip lets you filter by category. The previous "ALL" tab was removed — it forced too much scrolling to reach specific categories. Now you land directly in one of the actual categories (defaults to Skin) and switch via the tabs. Same for the Locker.
 
 ## Pricing
 

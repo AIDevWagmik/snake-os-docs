@@ -39,7 +39,7 @@ If your wallet is asking you to sign something that doesn't fit one of these pat
 
 If you connected your wallet to a fake Snake OS clone and signed something:
 
-1. **Disconnect the wallet from all dapps** (Phantom/Solflare settings → disconnect all)
+1. **Disconnect the wallet from all dapps** (Phantom settings → trusted apps → disconnect all)
 2. **Move your assets to a fresh wallet** if you signed anything malicious
 3. **Don't trust** the signed message until you've verified the origin
 

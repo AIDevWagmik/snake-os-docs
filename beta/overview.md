@@ -21,8 +21,8 @@ The closed-beta cap was originally a tester limit for focused early-day feedback
 The beta period continues — we're now validating:
 
 * ✅ PvP escrow + race-safety at higher concurrency
-* ✅ Wallet flow scaling (Phantom, Solflare, MWA inside dApp Store app)
-* ✅ UI fit across mobile in-app browsers (Phantom, Solflare, Safari, Chrome)
+* ✅ Wallet flow scaling (Phantom on all platforms + MWA inside Solana Mobile dApp Store app on Seeker)
+* ✅ UI fit across mobile in-app browsers (Phantom, Safari, Chrome)
 * ✅ Anti-cheat at real player volume
 * ✅ Friend/PvP-invite/rematch flows
 * ✅ Achievement + reward eligibility surfaces

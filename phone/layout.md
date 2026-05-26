@@ -15,12 +15,12 @@ Snake OS is rendered as a faithful Nokia 3310. The structure top-to-bottom:
 
 ## Phone Sizing
 
-| Platform                | Phone width                              |
-| ----------------------- | ---------------------------------------- |
-| Desktop                 | Centered, aspect-ratio bounded           |
-| Mobile Safari / Chrome  | `min(100vw, 47dvh)` — auto-scales to fit |
-| Phantom in-app browser  | Auto-scales                              |
-| Solflare in-app browser | Auto-scales                              |
+| Platform                              | Phone width                              |
+| ------------------------------------- | ---------------------------------------- |
+| Desktop                               | Centered, aspect-ratio bounded           |
+| Mobile Safari / Chrome                | `min(100vw, 47dvh)` — auto-scales to fit |
+| Phantom in-app browser                | Auto-scales                              |
+| Solana Mobile dApp Store app (Seeker) | Auto-scales                              |
 
 The 47dvh cap ensures all 9 number keys remain visible with tap buffer on every wallet browser. On tight viewports the phone shrinks proportionally and centers with side margins — designed.
 

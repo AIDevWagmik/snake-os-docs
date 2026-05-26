@@ -15,12 +15,14 @@ The Locker is your cosmetic inventory + equip center. Open with key **9** or the
 
 | Tab            | What                                                       |
 | -------------- | ---------------------------------------------------------- |
-| **PFP**        | Profile pictures — pick which avatar shows in friends/chat |
 | **SKIN**       | Snake appearance                                           |
-| **THEME**      | (Future) Phone shell themes                                |
-| **BACKGROUND** | Game arenas                                                |
+| **THEME**      | Phone shell themes                                         |
+| **BACKGROUND** | Game arena backgrounds                                     |
 | **BADGE**      | Profile flair badge (1 active)                             |
 | **ITEM**       | Powerups (up to 4 active)                                  |
+| **PFP**        | Profile pictures — pick which avatar shows in friends/chat |
+
+Each tab shows only the items in that category. The previous "ALL" tab was removed — scrolling through 50+ items to find one type was inefficient. You now land directly on the SKIN tab by default and switch via the tab strip.
 
 ## What "Owned" Means
 

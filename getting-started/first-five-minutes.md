@@ -7,7 +7,7 @@ A fast onboarding for new players:
 ## Minute 1 — Connect + Accept
 
 1. Tap **CONNECT** on the boot screen.
-2. Pick your wallet (Phantom / Solflare / MWA on Android).
+2. Pick your wallet (Phantom on desktop / iOS / Android, or MWA inside the Solana Mobile dApp Store app on Seeker).
 3. Sign the auth message.
 4. Read the Terms → ACCEPT.
 

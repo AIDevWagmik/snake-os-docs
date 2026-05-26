@@ -25,6 +25,25 @@ Open with key **1** or the SNAKE home-screen icon.
 * High score saves to your profile + the leaderboard
 * Solo runs are tagged `mode: 'solo'` in our database
 
+## Difficulty Curve
+
+Game speed scales by level. Recent rebalance softened the high-level curve so survival past L8 is humanly possible:
+
+| Level | Tick speed | Cells per second |
+|---|---|---|
+| L1 | 480 ms | 2.1 |
+| L5 | 380 ms | 2.6 |
+| L8 | 305 ms | 3.3 |
+| L10 | 275 ms | 3.6 |
+| L13 | 230 ms | 4.3 |
+| L17+ | 180 ms cap | 5.6 |
+
+Old curve capped at 120ms past L15 (8.3 cells/s) — was practically unplayable. New curve introduces a piecewise gentler slope past L8 with a 180ms floor — still fast but the skill ceiling is real.
+
+## Apple Count
+
+Board has **3 apples** through L8, then bumps to **4 apples from L9 onward**. The extra apple at high speed gives tactical options — you can grow + reposition without being forced into impossible chases across an empty board.
+
 ## What Solo Earns You
 
 | Reward               | Solo earns it?                    |

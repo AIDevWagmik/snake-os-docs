@@ -19,6 +19,12 @@ The weekly tournament is a **leaderboard-style competition** open to all players
 * A new tournament opens automatically each Monday
 * You can enter any time during the week
 
+## Post-Settle Restart
+
+If a tournament gets settled mid-week (manually by admin, or auto at week end), the system **automatically opens a fresh tournament** for the remaining time in the week + fee tier. You don't need to wait until next Monday to enter the next round.
+
+Backed by migration 027, which replaced the full-row uniqueness constraint with a partial-unique on `status = 'open'` only. Settled and cancelled rows are now allowed to repeat per (week, fee tier), so a new INSERT for a fresh round is permitted after settlement.
+
 ## Prize Split
 
 The house takes 5% of the pot. The rest goes to finishers:

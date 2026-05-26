@@ -76,3 +76,20 @@ Even non-participants get a lot:
 | Play nothing, just hold the token | token buyback distributions, no achievements                                  |
 
 Aligned. Honest. Hard to farm.
+
+## Pre-Launch Claim Behavior
+
+The token isn't live yet. Until it launches:
+
+- Any token reward CLAIM attempt fires a notification:
+  > *"⏳ [reward name] — TOKEN NOT LAUNCHED YET · claim opens at token launch"*
+- Toast persists for ~6 seconds at the top of the REWARDS screen
+- The achievement stays unlocked but uncollected — once the token launches, you'll be able to claim everything you've unlocked (subject to the participation gate above + the [holder gate](../snake-token/eligibility.md))
+
+This was previously a silent failure (case-sensitivity bug in the token-detection gate). Now token claims properly route to the coming-soon flow with explicit messaging instead of silently marking the reward as "claimed" without actually paying anything.
+
+## PvP SOL Claims Work Now
+
+PvP wager winnings and tournament prize payouts are paid in **SOL** (not the token). These claims work today — they don't require the token to be live. Open REWARDS, tap CLAIM on the PVP POT card, get paid on-chain.
+
+The participation gate (above) and holder gate (token-only) do NOT apply to SOL claims. If you won a PvP match, you can claim the SOL regardless of whether you hold the token.

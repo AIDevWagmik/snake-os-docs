@@ -62,6 +62,13 @@
 
 * [Coin Charts](market-watch/overview.md)
 
+## 📡 RADAR — Perp Signals
+
+* [What RADAR Does](radar/overview.md)
+* [SPLITS · HYPER · PHX Tabs](radar/markets.md)
+* [WHALES Feed](radar/whales.md)
+* [POSITIONS — Tracked Wallets](radar/positions.md)
+
 ## 💬 Social Features
 
 * [Global Chat](social/chat.md)
