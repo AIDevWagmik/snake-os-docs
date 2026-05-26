@@ -1,6 +1,6 @@
 # PvP Claims
 
-![REWARDS app — claim PvP winnings + check season prize](../.gitbook/assets/rewards-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142700.png" alt=""><figcaption></figcaption></figure>
 
 When you win a PvP match, your winnings accrue to your `claimable_pvp_sol` balance. You withdraw via the REWARDS app.
 

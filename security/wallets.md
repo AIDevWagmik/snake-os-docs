@@ -1,6 +1,6 @@
 # Wallet Security
 
-![Snake OS WALLET app — your SOL balance is read-only; private keys never leave your device](../.gitbook/assets/wallet-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142900.png" alt=""><figcaption></figcaption></figure>
 
 Snake OS never holds your private keys. Your wallet stays on your device.
 

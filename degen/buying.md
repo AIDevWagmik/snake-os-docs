@@ -1,5 +1,7 @@
 # Buying via Jupiter
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142232.png" alt=""><figcaption></figcaption></figure>
+
 DEGEN has a built-in Jupiter swap modal so you can buy any listed token without leaving Snake OS.
 
 ## How to Buy

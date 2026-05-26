@@ -1,5 +1,7 @@
 # Leaderboard
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142555.png" alt=""><figcaption></figcaption></figure>
+
 Global rankings sorted by **best Snake score** (highest snake game score ever). Tab options: DAILY / WEEKLY / ALL TIME (some scopes may be limited during beta).
 
 ## What Each Row Shows
@@ -33,7 +35,6 @@ Leaderboard resets at season boundaries (every 90 days). Your lifetime stats sta
 
 ## Why Solo Counts for Leaderboard but Not Rewards
 
-Leaderboard = "who's the best Snake player." Solo skill counts.
-Rewards = "who's investing in the ecosystem." Only participants (market spend / PvP wagers / the token holders) qualify.
+Leaderboard = "who's the best Snake player." Solo skill counts. Rewards = "who's investing in the ecosystem." Only participants (market spend / PvP wagers / the token holders) qualify.
 
 Two separate axes. See [Reward Eligibility](eligibility.md).

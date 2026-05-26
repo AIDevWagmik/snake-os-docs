@@ -1,6 +1,6 @@
 # The Market
 
-![Snake OS MARKET app](../.gitbook/assets/market-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141648.png" alt=""><figcaption></figcaption></figure>
 
 Snake OS's market sells **cosmetic items** — skins, arenas, badges, powerups. Items are purchased with SOL and remain in your account permanently (subject to beta-grant wipe at public launch — see [Beta-to-Launch Migration](../beta/migration.md)).
 

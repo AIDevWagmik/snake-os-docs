@@ -1,6 +1,6 @@
 # Anti-Cheat & Fair Play
 
-![HISTORY app — every game session is logged + scoring is validated server-side](../.gitbook/assets/game-history-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 140936.png" alt=""><figcaption></figcaption></figure>
 
 Snake OS uses both **synchronous preflight** and **async session analysis** to detect cheating.
 

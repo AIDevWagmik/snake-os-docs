@@ -1,6 +1,6 @@
 # Creating a Match
 
-![PvP wager screen](../.gitbook/assets/pvp-wager.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141124.png" alt=""><figcaption></figcaption></figure>
 
 ## Step-by-Step
 

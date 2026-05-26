@@ -1,5 +1,7 @@
 # The BETA Badge
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142026.png" alt=""><figcaption></figcaption></figure>
+
 The BETA badge is the **most exclusive item in Snake OS**. Only 20 wallets in history will ever have it.
 
 ## How to Get It

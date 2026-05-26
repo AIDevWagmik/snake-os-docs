@@ -1,6 +1,6 @@
 # Achievements & Badges
 
-![BADGES app — achievement progress + token rewards](../.gitbook/assets/badges-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142627.png" alt=""><figcaption></figcaption></figure>
 
 The BADGES app shows your achievement progress. Each achievement has:
 

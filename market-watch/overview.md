@@ -1,6 +1,6 @@
 # Coin Charts
 
-![MARKET WATCH — SOL, BTC, ETH and more inside the phone](../.gitbook/assets/marketwatch-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142333.png" alt=""><figcaption></figcaption></figure>
 
 Charts for the majors + select memes. Open with key **7** or the MARKET WATCH home icon.
 
@@ -14,6 +14,8 @@ Charts for the majors + select memes. Open with key **7** or the MARKET WATCH ho
 | **XRP**  | Bybit kline API                           |
 | **HYPE** | Bybit kline API                           |
 | **ZEC**  | Binance kline API (Bybit has no ZEC spot) |
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142410.png" alt=""><figcaption></figcaption></figure>
 
 ## Timeframes
 

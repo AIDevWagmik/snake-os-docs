@@ -1,6 +1,6 @@
 # What ORACLE Does
 
-![ORACLE — AI risk scanner + chat](../.gitbook/assets/oracle-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142100.png" alt=""><figcaption></figcaption></figure>
 
 ORACLE is Snake OS's built-in AI assistant + Solana token risk scanner. Two modes in one app:
 

@@ -1,13 +1,15 @@
 # Cancels & Refunds
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141301.png" alt=""><figcaption></figcaption></figure>
+
 ## When a Match Can Be Cancelled
 
-| State | Can be cancelled? | By whom |
-|---|---|---|
-| `waiting` | ✅ Yes | Creator manually, or auto after 5 min |
-| `ready` | ✅ Yes | Either player manually (admin tool currently) |
-| `playing` | ❌ No | Match is in progress |
-| `settled` | ❌ No | Outcome already final |
+| State     | Can be cancelled? | By whom                                       |
+| --------- | ----------------- | --------------------------------------------- |
+| `waiting` | ✅ Yes             | Creator manually, or auto after 5 min         |
+| `ready`   | ✅ Yes             | Either player manually (admin tool currently) |
+| `playing` | ❌ No              | Match is in progress                          |
+| `settled` | ❌ No              | Outcome already final                         |
 
 ## How Cancels Work
 
@@ -23,7 +25,7 @@ When a cancel triggers:
 Rare but possible (RPC blip, treasury balance momentarily low). When `sendPayout` fails:
 
 * The match stays `cancelled` (state already flipped)
-* A `[pvp/lobby sweep] REFUND FAILED` entry is logged with the wallet + amount + match_id
+* A `[pvp/lobby sweep] REFUND FAILED` entry is logged with the wallet + amount + match\_id
 * The refund needs **manual reconciliation** by ops — report it in the support topic on Telegram with your wallet address
 * We **never double-pay** — the CAS guard + deposit-sig uniqueness make that structurally impossible
 

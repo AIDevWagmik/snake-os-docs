@@ -1,5 +1,7 @@
 # Season Prize Pool
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142734.png" alt=""><figcaption></figcaption></figure>
+
 A self-funded SOL prize pool paid to top PvP players at the end of each 90-day season.
 
 ## How It's Funded
@@ -10,11 +12,11 @@ A self-funded SOL prize pool paid to top PvP players at the end of each 90-day s
 
 ## Distribution at Season End
 
-| Rank | Share | USD Cap |
-|---|---|---|
-| #1 | 50% of pool | $50 |
-| #2 | 30% of pool | $30 |
-| #3 | 20% of pool | $20 |
+| Rank | Share       | USD Cap |
+| ---- | ----------- | ------- |
+| #1   | 50% of pool | $50     |
+| #2   | 30% of pool | $30     |
+| #3   | 20% of pool | $20     |
 
 If the pool is below the $30 USD floor at season end, no payout — the pool rolls into the next season. This avoids dust-payout overhead.
 

@@ -1,4 +1,6 @@
-# Joining a PvP Match
+# Joining a Match
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141152.png" alt=""><figcaption></figcaption></figure>
 
 ## Step-by-Step
 
@@ -18,7 +20,7 @@ If two players try to JOIN the same `waiting` match at the same time, only one w
 
 ## Match Discovery
 
-The lobby polls every ~20 seconds for new matches. You can also accept a **direct PvP invite** from a friend — see [Notifications](../social/notifications.md). Direct invites bypass the lobby.
+The lobby polls every \~20 seconds for new matches. You can also accept a **direct PvP invite** from a friend — see [Notifications](../social/notifications.md). Direct invites bypass the lobby.
 
 ## What If I Join Then Drop?
 

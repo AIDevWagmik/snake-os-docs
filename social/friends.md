@@ -1,6 +1,6 @@
 # Friends
 
-![FRIENDS — BETA badges, equipped flair, PvP invites](../.gitbook/assets/friends-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142519.png" alt=""><figcaption></figcaption></figure>
 
 Track other Snake OS players, send PvP invites, see who's online.
 

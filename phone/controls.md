@@ -1,6 +1,6 @@
 # Navigation & Controls
 
-![Controls reference inside the app](../.gitbook/assets/controls-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 140817.png" alt=""><figcaption></figcaption></figure>
 
 ## D-Pad
 

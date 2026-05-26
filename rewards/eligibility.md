@@ -1,5 +1,7 @@
 # Reward Eligibility — Read This
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142800.png" alt=""><figcaption></figcaption></figure>
+
 This is the most important page in this entire GitBook for anyone planning to earn from Snake OS.
 
 ## The Policy in One Sentence
@@ -60,17 +62,17 @@ Even non-participants get a lot:
 * All of the above, PLUS:
 * ✅ Achievement the token claims (all tiers)
 * ✅ PvP claim winnings (already participant by definition)
-* ✅ Season prize eligibility (if also meeting MIN_MATCHES/WAGER floors)
+* ✅ Season prize eligibility (if also meeting MIN\_MATCHES/WAGER floors)
 * ✅ Future token buyback distributions (post-launch, weight based on activity + holdings)
 
 ## TL;DR
 
-| You... | You earn... |
-|---|---|
-| Play 100 solo games | Cosmetic achievements, leaderboard rank, no the token |
-| Buy a 0.02 SOL powerup | All of above + retroactively claim all the token achievements you've unlocked |
-| Play a 0.01 SOL PvP match | Same as above |
-| Hold the token post-launch | Same as above + future buyback distributions |
-| Play nothing, just hold the token | token buyback distributions, no achievements |
+| You...                            | You earn...                                                                   |
+| --------------------------------- | ----------------------------------------------------------------------------- |
+| Play 100 solo games               | Cosmetic achievements, leaderboard rank, no the token                         |
+| Buy a 0.02 SOL powerup            | All of above + retroactively claim all the token achievements you've unlocked |
+| Play a 0.01 SOL PvP match         | Same as above                                                                 |
+| Hold the token post-launch        | Same as above + future buyback distributions                                  |
+| Play nothing, just hold the token | token buyback distributions, no achievements                                  |
 
 Aligned. Honest. Hard to farm.

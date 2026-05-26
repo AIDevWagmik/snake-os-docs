@@ -1,6 +1,6 @@
 # What SNIPE Shows
 
-![SNIPE — KOL wallet activity tracker](../.gitbook/assets/snipe-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142300.png" alt=""><figcaption></figcaption></figure>
 
 SNIPE tracks recent activity from notable Solana wallets — KOLs, known traders, and tracked accounts. See what they're buying and selling in near-real-time.
 

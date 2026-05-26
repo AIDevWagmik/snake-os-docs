@@ -1,5 +1,7 @@
 # Challenge Mode
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141334.png" alt=""><figcaption></figcaption></figure>
+
 Challenge mode is a **solo, house-funded** betting game. Pick a tier, wager SOL, and beat a target score in a single life to win a multiplied payout — no opponent needed.
 
 ## How It Works
@@ -15,11 +17,11 @@ Challenge mode is a **solo, house-funded** betting game. Pick a tier, wager SOL,
 
 ## Tiers
 
-| Tier | Target Score | Payout | Food needed (~) |
-|------|-------------|--------|-----------------|
-| **EASY** | 6,000 pts | 1.5× your wager | ~80 food |
-| **DEGEN** | 10,000 pts | 2× your wager | ~133 food |
-| **INSANE** | 14,000 pts | 2.5× your wager | ~186 food |
+| Tier       | Target Score | Payout          | Food needed (\~) |
+| ---------- | ------------ | --------------- | ---------------- |
+| **EASY**   | 6,000 pts    | 1.5× your wager | \~80 food        |
+| **DEGEN**  | 10,000 pts   | 2× your wager   | \~133 food       |
+| **INSANE** | 14,000 pts   | 2.5× your wager | \~186 food       |
 
 **Wager range:** 0.05 SOL minimum — 0.20 SOL maximum per game.
 

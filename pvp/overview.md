@@ -1,6 +1,6 @@
 # How PvP Works
 
-![PvP wager setup — real Solana mainnet SOL](../.gitbook/assets/pvp-wager.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141043.png" alt=""><figcaption></figcaption></figure>
 
 **PvP wagers use real Solana mainnet SOL.** Read this entire page before depositing.
 

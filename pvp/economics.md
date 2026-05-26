@@ -1,5 +1,7 @@
 # Wagers, Pots & Fees
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141226.png" alt=""><figcaption></figcaption></figure>
+
 The exact math behind PvP economics.
 
 ## Wager Bounds
@@ -44,14 +46,14 @@ net_to_winner = combined_pot × 0.9409 ≈ 94.09%
 
 You and an opponent each wager **0.5 SOL**:
 
-| Stage | Calculation | Result |
-|---|---|---|
-| Combined pot | 0.5 + 0.5 | **1.0 SOL** |
-| Settle fee (3%) | 1.0 × 0.03 | 0.03 SOL → treasury |
-| Winner credit | 1.0 × 0.97 | 0.97 SOL credited |
-| Claim fee (3%) | 0.97 × 0.03 | 0.0291 SOL → treasury |
-| **Net to winner** | 0.97 × 0.97 | **0.9409 SOL** |
-| Total fees | 0.03 + 0.0291 | 0.0591 SOL (5.91%) |
+| Stage             | Calculation   | Result                |
+| ----------------- | ------------- | --------------------- |
+| Combined pot      | 0.5 + 0.5     | **1.0 SOL**           |
+| Settle fee (3%)   | 1.0 × 0.03    | 0.03 SOL → treasury   |
+| Winner credit     | 1.0 × 0.97    | 0.97 SOL credited     |
+| Claim fee (3%)    | 0.97 × 0.03   | 0.0291 SOL → treasury |
+| **Net to winner** | 0.97 × 0.97   | **0.9409 SOL**        |
+| Total fees        | 0.03 + 0.0291 | 0.0591 SOL (5.91%)    |
 
 ## Where Fees Go
 

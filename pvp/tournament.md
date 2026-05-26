@@ -1,5 +1,7 @@
 # Weekly Tournament
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141411 (3).png" alt=""><figcaption></figcaption></figure>
+
 The weekly tournament is a **leaderboard-style competition** open to all players. Pay a single entry fee, play as many games as you like during the week, and your best score counts. Top finishers split the prize pot.
 
 ## How It Works
@@ -23,32 +25,32 @@ The house takes 5% of the pot. The rest goes to finishers:
 
 ### 2 players
 
-| Place | Share |
-|-------|-------|
+| Place  | Share      |
+| ------ | ---------- |
 | 🥇 1st | 75% of pot |
 | 🥈 2nd | 20% of pot |
-| House | 5% |
+| House  | 5%         |
 
 ### 3 or more players
 
-| Place | Share |
-|-------|-------|
+| Place  | Share      |
+| ------ | ---------- |
 | 🥇 1st | 65% of pot |
 | 🥈 2nd | 25% of pot |
-| 🥉 3rd | 5% of pot |
-| House | 5% |
+| 🥉 3rd | 5% of pot  |
+| House  | 5%         |
 
 4th place and below receive nothing.
 
 ## Worked Example (5 players, 0.1 SOL entry each)
 
-| Prize | Calculation | Payout |
-|-------|-------------|--------|
-| Pot | 5 × 0.1 | **0.50 SOL** |
-| 1st (65%) | 0.50 × 0.65 | **0.325 SOL** (3.25× entry) |
-| 2nd (25%) | 0.50 × 0.25 | **0.125 SOL** (1.25× entry) |
-| 3rd (5%) | 0.50 × 0.05 | **0.025 SOL** (0.25× entry) |
-| House (5%) | 0.50 × 0.05 | 0.025 SOL |
+| Prize      | Calculation | Payout                      |
+| ---------- | ----------- | --------------------------- |
+| Pot        | 5 × 0.1     | **0.50 SOL**                |
+| 1st (65%)  | 0.50 × 0.65 | **0.325 SOL** (3.25× entry) |
+| 2nd (25%)  | 0.50 × 0.25 | **0.125 SOL** (1.25× entry) |
+| 3rd (5%)   | 0.50 × 0.05 | **0.025 SOL** (0.25× entry) |
+| House (5%) | 0.50 × 0.05 | 0.025 SOL                   |
 
 ## Cancellation
 
@@ -60,4 +62,4 @@ Tournament score submissions go through the same server-side preflight as PvP an
 
 ## Claiming Winnings
 
-Tournament winnings land in the same **claimable_pvp_sol** pool as PvP winnings. Open the REWARDS app, tap **CLAIM** on the PvP Pot card, and everything — PvP + tournament — comes out in one transaction. A 3% claim fee applies at withdrawal.
+Tournament winnings land in the same **claimable\_pvp\_sol** pool as PvP winnings. Open the REWARDS app, tap **CLAIM** on the PvP Pot card, and everything — PvP + tournament — comes out in one transaction. A 3% claim fee applies at withdrawal.

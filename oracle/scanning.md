@@ -1,7 +1,5 @@
 # Scanning a Contract
 
-![ORACLE risk scan in action](../.gitbook/assets/oracle-app.png)
-
 ## How to Scan
 
 1. Open **ORACLE** app.

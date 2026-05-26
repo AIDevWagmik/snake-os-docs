@@ -1,6 +1,6 @@
 # Your Locker
 
-![Snake OS LOCKER app — equip skins, badges, PFPs](../.gitbook/assets/locker-app.png)
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141818.png" alt=""><figcaption></figcaption></figure>
 
 The Locker is your cosmetic inventory + equip center. Open with key **9** or the LOCKER home icon.
 
