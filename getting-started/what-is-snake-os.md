@@ -1,6 +1,6 @@
 # What is Snake OS?
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 103742 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 103742.png" alt=""><figcaption></figcaption></figure>
 
 Snake OS is a Solana-based on-chain game wearing the skin of a Nokia 3310. The phone has **18 apps** ranging from the classic Snake game to a real-time pump.fun migrations feed to an AI risk scanner for memecoin contracts.
 

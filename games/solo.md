@@ -1,6 +1,6 @@
 # Solo Play
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104506 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 104506.png" alt=""><figcaption></figcaption></figure>
 
 Open with key **1** or the SNAKE home-screen icon.
 
@@ -30,13 +30,13 @@ Open with key **1** or the SNAKE home-screen icon.
 Game speed scales by level. Recent rebalance softened the high-level curve so survival past L8 is humanly possible:
 
 | Level | Tick speed | Cells per second |
-|---|---|---|
-| L1 | 480 ms | 2.1 |
-| L5 | 380 ms | 2.6 |
-| L8 | 305 ms | 3.3 |
-| L10 | 275 ms | 3.6 |
-| L13 | 230 ms | 4.3 |
-| L17+ | 180 ms cap | 5.6 |
+| ----- | ---------- | ---------------- |
+| L1    | 480 ms     | 2.1              |
+| L5    | 380 ms     | 2.6              |
+| L8    | 305 ms     | 3.3              |
+| L10   | 275 ms     | 3.6              |
+| L13   | 230 ms     | 4.3              |
+| L17+  | 180 ms cap | 5.6              |
 
 Old curve capped at 120ms past L15 (8.3 cells/s) — was practically unplayable. New curve introduces a piecewise gentler slope past L8 with a 180ms floor — still fast but the skill ceiling is real.
 

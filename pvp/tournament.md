@@ -1,6 +1,6 @@
 # Weekly Tournament
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141411 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 141411.png" alt=""><figcaption></figcaption></figure>
 
 The weekly tournament is a **leaderboard-style competition** open to all players. Pay a single entry fee, play as many games as you like during the week, and your best score counts. Top finishers split the prize pot.
 

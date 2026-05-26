@@ -1,39 +1,41 @@
 # POSITIONS — Tracked Wallets
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-26 145439.png" alt=""><figcaption></figcaption></figure>
+
 The POSITIONS tab shows live open long/short books for a curated roster of 35+ named whale wallets. Per-position size, leverage, entry, uPnL, and distance-to-liquidation.
 
 ## What You See
 
 Each wallet appears as a card:
 
-- **Label** (e.g. "JamesWynn", "greg", "ABC", "pensionfund", "bobbybigsize")
-- **MM tag** if the wallet is a market maker (delta-neutral, discount directional reads)
-- **Net side tag** — NET LONG / NET SHORT / FLAT / IDLE (calculated from notional sum)
-- **Open position count badge** — quick read of how many active positions
-- **Hyperliquid explorer link** — tap the address to view their full account
-- **Rename / Remove buttons** — customize your own view (per-wallet)
+* **Label** (e.g. "JamesWynn", "greg", "ABC", "pensionfund", "bobbybigsize")
+* **MM tag** if the wallet is a market maker (delta-neutral, discount directional reads)
+* **Net side tag** — NET LONG / NET SHORT / FLAT / IDLE (calculated from notional sum)
+* **Open position count badge** — quick read of how many active positions
+* **Hyperliquid explorer link** — tap the address to view their full account
+* **Rename / Remove buttons** — customize your own view (per-wallet)
 
 Tap the card header to expand and see the wallet's open positions:
 
-- **Side** (▲ LONG / ▼ SHORT)
-- **Coin + leverage** (e.g. HYPE 10x)
-- **Notional USD**
-- **Size + entry price** (e.g. 4,200 HYPE @ 24.10)
-- **uPnL** (unrealized PnL in USD, colored)
-- **Distance to liquidation** — % away from getting wicked. Colored:
-  - Red < 3% (about to blow)
-  - Orange < 10% (warning)
-  - Yellow < 25% (notable)
-  - Dim green ≥ 25% (safe)
+* **Side** (▲ LONG / ▼ SHORT)
+* **Coin + leverage** (e.g. HYPE 10x)
+* **Notional USD**
+* **Size + entry price** (e.g. 4,200 HYPE @ 24.10)
+* **uPnL** (unrealized PnL in USD, colored)
+* **Distance to liquidation** — % away from getting wicked. Colored:
+  * Red < 3% (about to blow)
+  * Orange < 10% (warning)
+  * Yellow < 25% (notable)
+  * Dim green ≥ 25% (safe)
 
 ## Aggregate Strip
 
 At the top of POSITIONS, a one-line aggregate of the entire roster:
 
-- **Active wallets** — of total
-- **Total LONG notional** (USD)
-- **Total SHORT notional** (USD)
-- **Combined uPnL** across all positions
+* **Active wallets** — of total
+* **Total LONG notional** (USD)
+* **Total SHORT notional** (USD)
+* **Combined uPnL** across all positions
 
 Quick read of the room's positioning.
 
@@ -45,9 +47,9 @@ By default, wallets with zero open positions are hidden — they bloat the page 
 
 The roster is **server-backed** (Supabase tables). Your customizations follow you across devices:
 
-- **Add a wallet** to your personal roster (dev-only currently — see below)
-- **Rename a wallet** for your view (server stores your alias, others see the default)
-- **Remove a wallet** from your view (hides it just for you, doesn't affect anyone else)
+* **Add a wallet** to your personal roster (dev-only currently — see below)
+* **Rename a wallet** for your view (server stores your alias, others see the default)
+* **Remove a wallet** from your view (hides it just for you, doesn't affect anyone else)
 
 These are per-user customizations. The base seed roster of 35+ wallets is admin-managed.
 
@@ -61,13 +63,14 @@ If you're a dev wallet, the form appears at the bottom of the list. Paste the wa
 
 The roster's positions refresh every 30 seconds via Hyperliquid's `clearinghouseState` endpoint. Each wallet is queried independently and batched gently to respect rate limits.
 
-A footer shows when positions were last refreshed: *"Updated 14s ago · polls 30s"*.
+A footer shows when positions were last refreshed: _"Updated 14s ago · polls 30s"_.
 
 ## Distance-to-Liq Math
 
 For each open position with a known liquidation price + current mark:
-- **LONG:** distance = (mark − liq) / mark
-- **SHORT:** distance = (liq − mark) / mark
+
+* **LONG:** distance = (mark − liq) / mark
+* **SHORT:** distance = (liq − mark) / mark
 
 Distance is asymmetric by side — longs get liquidated when price falls below liq, shorts when price rises above. The percentage tells you how much the underlying must move against the position before it's wicked.
 
