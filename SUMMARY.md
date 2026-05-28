@@ -24,12 +24,12 @@
 * [Powerups](games/powerups.md)
 * [Anti-Cheat & Fair Play](games/anti-cheat.md)
 
-## ⚔️ PvP — Real SOL Wagering
+## ⚔️ PvP — Skill-Based 1v1
 
 * [How PvP Works](pvp/overview.md)
 * [Creating a Match](pvp/creating.md)
 * [Joining a Match](pvp/joining.md)
-* [Wagers, Pots & Fees](pvp/economics.md)
+* [Entry Fees & Prize Pools](pvp/economics.md)
 * [Cancels & Refunds](pvp/cancels.md)
 * [Rematches](pvp/rematches.md)
 * [Challenge Mode](pvp/challenge.md)
