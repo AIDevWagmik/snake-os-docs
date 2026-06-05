@@ -1,7 +1,5 @@
 # Status: Not Live Yet
 
-![Snake OS Roadmap — Token TGE target: Week 3](../.gitbook/assets/roadmap.png)
-
 > ⚠ **The token has not launched.** Any UI element in Snake OS showing "claimable rewards", "earned tokens", or pre-launch token amounts is a placeholder. **No tokens accumulate during the beta. Pre-launch reward numbers will NOT be honoured.**
 
 The reward system goes live **only after** the token is deployed.
