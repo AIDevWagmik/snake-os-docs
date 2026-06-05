@@ -20,8 +20,8 @@ Open with key **1** or the SNAKE home-screen icon.
 
 ## Scoring
 
-* Each food eaten = 1 point + length increase
-* Powerups (if equipped) modify scoring temporarily
+* Each food eaten = 75 points + length increase (60 in Challenge mode)
+* Powerups spawn occasionally and apply on pickup — see [Powerups](powerups.md)
 * High score saves to your profile + the leaderboard
 * Solo runs are tagged `mode: 'solo'` in our database
 

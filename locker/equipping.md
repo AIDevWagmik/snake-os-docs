@@ -17,7 +17,8 @@
 | Theme | 1 active |
 | Badge | **1 active** (visible next to your username) |
 | PFP | 1 active (visible in friends/chat) |
-| Powerups | **Up to 4 active** |
+
+> **Note:** Powerups are NOT equipped — they spawn as in-game drops during Solo / PvP / Tournament play and activate automatically when collected. The ITEM tab was removed in 2026-06. Challenge mode has no powerup drops at all. See [Powerups](../games/powerups.md) for the current model.
 
 ## The Active Badge
 
@@ -28,7 +29,6 @@ You can own multiple market badges (DEGEN, OG, WHALE, DIAMOND HANDS) but **only 
 * **PFP** → shows next to your username in friends list + chat
 * **Equipped badge** → shows next to your username in friends list + chat + leaderboard
 * **Skin/Arena** → only visible during your gameplay
-* **Powerups** → only active during your gameplay
 
 ## BETA Badge
 
