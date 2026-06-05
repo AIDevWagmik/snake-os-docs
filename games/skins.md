@@ -19,7 +19,6 @@ Examples (full list in the MARKET app):
 * **ETHEREAL** — Ethereum blue
 * **DOGE SNEK** — Doge meme
 * **PEPE SNAKE** — Pepe green
-* **BONK** — Bonk-themed
 * **CYBER SNAKE** — neon cyberpunk
 * **DIAMOND SNAKE** — diamond gradient
 * **GOLD SERPENT** — premium gold

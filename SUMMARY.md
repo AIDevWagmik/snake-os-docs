@@ -35,6 +35,11 @@
 * [Challenge Mode](pvp/challenge.md)
 * [Weekly Tournament](pvp/tournament.md)
 
+## 💼 WALLET & BUY
+
+* [The WALLET App](wallet/overview.md)
+* [The BUY App](buy/overview.md)
+
 ## 🛒 Market & Locker
 
 * [The Market](market/overview.md)
@@ -42,6 +47,10 @@
 * [Your Locker](locker/overview.md)
 * [Equipping Cosmetics](locker/equipping.md)
 * [The BETA Badge](locker/beta-badge.md)
+
+## 📜 HISTORY
+
+* [Match History](history/overview.md)
 
 ## 🔮 ORACLE — AI Risk Scanner
 
@@ -54,11 +63,23 @@
 * [What DEGEN Shows](degen/overview.md)
 * [Buying via Jupiter](degen/buying.md)
 
-## 🎯 SNIPE — KOL Feed
+## 🎯 SNIPE — KOL Wallet Activity
 
 * [What SNIPE Shows](snipe/overview.md)
 
-## 📈 MARKET WATCH
+## 🐦 CT FEED — KOL Posts
+
+* [What CT FEED Shows](ct-feed/overview.md)
+
+## 💬 COMMUNITIES — Per-Token Threads
+
+* [What COMMUNITIES Shows](communities/overview.md)
+
+## 📈 STOCKS — xStocks (Tokenized Equities)
+
+* [What STOCKS Lists](stocks/overview.md)
+
+## 📊 MARKET WATCH
 
 * [Coin Charts](market-watch/overview.md)
 
@@ -69,11 +90,16 @@
 * [WHALES Feed](radar/whales.md)
 * [POSITIONS — Tracked Wallets](radar/positions.md)
 
+## 🤣 MEMES
+
+* [Meme Feed](memes/overview.md)
+
 ## 💬 Social Features
 
 * [Global Chat](social/chat.md)
 * [Friends](social/friends.md)
 * [Notifications](social/notifications.md)
+* [SOCIALS — Official Links](social/link-hub.md)
 
 ## 🏆 Leaderboard & Rewards
 
