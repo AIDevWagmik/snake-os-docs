@@ -122,6 +122,7 @@
 * [Wallet Security](security/wallets.md)
 * [Origin Lock & Signed Auth](security/origin-lock.md)
 * [Treasury Escrow](security/treasury.md)
+* [Official Wallet Addresses](security/official-addresses.md)
 * [What We Never Have](security/never-have.md)
 
 ## 🧪 Closed Beta
