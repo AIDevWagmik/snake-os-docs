@@ -2,51 +2,49 @@
 
 See [Reward Eligibility](../rewards/eligibility.md) for the complete policy.
 
-The TL;DR for the project token specifically:
-
-## Three Paths to Earning the token
+## Three Paths to Earning
 
 | Path | What you do | What you earn |
-|---|---|---|
-| **PvP** | Win PvP matches | SOL winnings + weekly the token prize-pool distributions (top players by ELO) |
-| **Market** | Buy any market item | Unlocks all your achievement the token claims (capital qualifies you forever) |
-| **Hold** | Hold the token in wallet | Weekly holder buyback distributions (post-launch) |
+| ---- | ----------- | ------------- |
+| **BITS** | Use any Snake OS app — game, trade, explore, chat | BITS → weekly token share from the burn pool |
+| **PvP** | Win PvP matches | SOL winnings + weekly token prize distributions (top players) |
+| **Hold** | Hold tokens in your wallet | Weekly holder buyback distributions (post-launch) |
 
-## What You DO NOT Earn tokens From
+## BITS — The Primary Earning Path
 
-* ❌ Solo Snake play (cosmetic badges only)
-* ❌ Logging in daily (no streaks, no daily quests)
-* ❌ Adding friends (cosmetic achievement only)
-* ❌ Sending chat messages (cosmetic achievement only)
-* ❌ Referring others (no referral program)
-* ❌ Just signing up (no "claim your first 100 tokens" airdrop)
+BITS are earned across all Snake OS apps with no minimum spend required. Every user starts earning from their first session. Your accumulated BITS determine your proportional share of the weekly burn pool after launch.
 
-This is intentional. Every reward mechanism known to attract farmers is intentionally absent.
+Stack BITS now during beta — they carry forward to launch.
 
-## $SNAKE Holder Gate — HARD RULE
+## Holder Gate — Post-Launch Token Claims
 
-Token reward claims (achievement claims, weekly/season distributions, future buyback distributions) are **only payable to wallets that already hold $SNAKE**.
+Direct token reward claims (achievement-linked token rewards, if any) are only payable to wallets that already hold tokens in their connected wallet. Any non-zero balance qualifies.
 
-### Why
+**Why this gate exists:**
 
-1. **Treasury saves rent.** Sending tokens to a fresh wallet that's never held the token requires creating an Associated Token Account, which costs ~0.002 SOL of rent paid by the treasury. At 1000 first-time claimers that's 2 SOL. Holders already have an ATA — transfer skips the create path entirely.
+1. **Treasury saves rent.** Sending tokens to a wallet that has never held them requires creating an Associated Token Account (~0.002 SOL). Holders already have an ATA, so the transfer skips that cost.
+2. **Filters farming accounts.** Wallets with no position have zero conviction. Buying first means anyone claiming has skin in the game.
+3. **Reinforces the earn model.** BITS are the primary pre-launch path; the holder gate applies to secondary direct-token flows that open post-launch.
 
-2. **Reinforces the "skin in the game" reward model.** The rewards banner promises `REWARDS = PVP WAGERS · MARKET SPEND · TOKENS HELD`. The holder gate is the enforcement for the third pillar — previously unenforced.
+**Threshold:** Any non-zero balance qualifies. A small bag is enough.
 
-3. **Filters airdrop farmers.** Wallets that have never touched the token have zero conviction. Forcing them to buy first means anyone claiming has at least some position in the project.
+**What you'll see without tokens:**
 
-### Threshold
+> "Token claims are for holders of the token only"
 
-**Any non-zero balance qualifies.** Even a small $5 bag is enough to satisfy the holder gate. No minimum threshold beyond `balance > 0`.
-
-### What you'll see if you don't hold
-
-If you try to claim a token reward without holding $SNAKE in your wallet, you'll see:
-
-> **"Token claims are for holders of the token only"**
-
-The claim is blocked with a 403 error and a clear message. Buy any amount of $SNAKE on Jupiter, then come back and claim.
+The claim is blocked with a 403. Buy any amount on Jupiter, then claim.
 
 ### Pre-launch
 
-Until the $SNAKE mint is deployed and the `SNAKE_MINT_ADDRESS` env var is set on the production server, all token claims return a 503 "token claims not enabled yet" message. Pre-launch UI shows the achievement as locked behind "TOKEN NOT LAUNCHED YET — claim opens at token launch."
+Until the token mint is deployed and activated on the production server, all direct token claims return a 503 "token claims not enabled yet." The BITS burn pool exchange is what opens at launch — not a separate claim gate.
+
+## What Does NOT Earn Tokens
+
+The following are intentionally excluded from the reward model:
+
+* ❌ Logging in daily (no login streaks)
+* ❌ Adding friends alone (cosmetic badge only)
+* ❌ Just signing up (no sign-up drop)
+* ❌ Referring others (no referral program)
+
+These are the patterns that attract farmers. By routing rewards through BITS (activity-based) and token holdings (conviction-based), Snake OS selects for participants who actually use the platform or believe in the project.

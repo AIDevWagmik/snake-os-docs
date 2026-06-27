@@ -1,44 +1,46 @@
 # Status: Not Live Yet
 
-> ⚠ **The token has not launched.** Any UI element in Snake OS showing "claimable rewards", "earned tokens", or pre-launch token amounts is a placeholder. **No tokens accumulate during the beta. Pre-launch reward numbers will NOT be honoured.**
+> ⚠ **The token has not launched.** The BITS system is live and accumulating your balance now — but token claims, the burn pool exchange, and holder distributions all open at token launch.
 
-The reward system goes live **only after** the token is deployed.
+## What's Live Right Now
+
+* ✅ **BITS are real and accumulating.** Every action you take in Snake OS earns BITS — gaming, trading, socializing, exploring. Your balance is tracked server-side and grows now.
+* ✅ **SOL is real.** PvP wagers are on Solana mainnet. Market purchases are on-chain.
+* ✅ **Cosmetics are permanent.** Your owned market items stay yours.
+* ✅ **Achievements unlock permanently.** Claim BITS from any unlocked badge today.
+* ❌ **The token is not live.** The BITS → token exchange, holder distributions, and direct token claims open at launch.
 
 ## Current Timeline
 
-We're following the public roadmap:
+| Phase | Status |
+| ----- | ------ |
+| **Closed Beta** | 🟢 LIVE |
+| BITS System | 🟢 LIVE — earn now |
+| Token Launch | Target — public roadmap |
+| BITS Exchange Open | At token launch |
+| Season 1 | Post-launch |
 
-| Phase                | Status      |
-| -------------------- | ----------- |
-| **W1 — Closed Beta** | 🟢 LIVE NOW |
-| W2 — Hype / Waitlist | Upcoming    |
-| W3 — Token Launch    | Target      |
-| M2 — Season 1        | Post-launch |
-| M3+ — Platform       | Long-term   |
+## What Happens at Token Launch
 
-## What Happens When Token Launches
+1. Fair launch — no presale, no team allocation
+2. Snake OS treasury buys a portion of supply on the launch curve (transparent, on-chain, labeled)
+3. Snake OS app opens to the public the same hour
+4. **BITS → token exchange opens**: your accumulated BITS enter the weekly burn pool proportional share calculation
+5. Achievement claims, PvP tournament buybacks, and holder distributions all go live
+6. The BITS balance you have at launch is your starting position in the burn pool
 
-1. Fair launch on **pump.fun** — no presale, no team allocation
-2. Snake OS treasury wallet buys 5–10% of supply on the launch curve (transparent, on-chain, labeled)
-3. Snake OS app opens to public the same hour
-4. Waitlist gets 5–10 minute notification head-start
-5. Achievement claims, PvP buyback distributions, and the holder-distribution loop all go live
-6. The reward system starts fresh — all the "earned" numbers showing during beta are wiped to zero. Real tokens start accumulating from the first post-launch action you take.
+## The Burn Pool
 
-## Why "NOT Live Yet" Matters
+Every week after launch, a fixed amount of tokens flows through the burn pool:
 
-If you're reading the UI literally:
+* **1,000,000 tokens per week** allocated from the treasury
+* Supplemented by a share of PvP/market SOL fees converted to tokens via buybacks
+* Your share = `your BITS / total BITS in circulation` × weekly pool
 
-* "You've earned 250,000 tokens" — placeholder. Not real tokens. Will not be claimable.
-* "1,500,000 tokens in claimable rewards" — placeholder. Will be zeroed at launch.
-* Solo-grinder accounts will not get a single token from pre-launch activity.
+The more BITS you hold at launch, the larger your weekly share. Stack now.
 
-This is stated in the Terms of Service (Clause 4). Accepting the TOS = acknowledging this.
+## Why "Accumulate Now"
 
-## What's Real Right Now
+Unlike the original beta design where pre-launch numbers were placeholders that would be wiped, **BITS are real and carry forward.** Your current BITS balance is what you bring into the launch-week burn pool.
 
-* ✅ SOL is real. PvP wagers are real Solana mainnet.
-* ✅ Market purchases are real on-chain SOL transfers.
-* ✅ Cosmetics are real (your owned items stay yours, with one exception: beta-grant items are wiped at launch in exchange for 3 free items of choice — see [Beta-to-Launch Migration](../beta/migration.md)).
-* ✅ Achievements unlock for real (the badges are permanent flex).
-* ❌ The token is NOT real yet. Anything labeled "the token" is a placeholder.
+This is stated in the updated Terms of Service. Accepting TOS = acknowledging BITS accumulate pre-launch and convert at launch.

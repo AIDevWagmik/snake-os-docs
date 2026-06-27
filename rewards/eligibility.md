@@ -2,94 +2,61 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-26 142800.png" alt=""><figcaption></figcaption></figure>
 
-This is the most important page in this entire GitBook for anyone planning to earn from Snake OS.
+## BITS — No Gate, All Users Earn
 
-## The Policy in One Sentence
+**BITS have no participation gate.** Every Snake OS user earns BITS by playing, exploring, trading, and chatting. You don't need to spend SOL or hold anything to start accumulating.
 
-> **token rewards are only claimable by active participants — users who have spent in the market, wagered in PvP, or hold the token in their wallet.**
+This is how BITS differ from the original reward model:
 
-Solo-only accounts that never spend, wager, or hold can play and earn cosmetic badges, but cannot claim the token rewards.
+| Old model | BITS model |
+| --------- | ---------- |
+| Achievement claims gated to market spenders + PvP players | All users earn BITS freely |
+| Solo grinders got cosmetic-only badges | Solo grinders earn BITS too |
+| Participation required before any claim | No gate — unlock and claim |
 
-## Why This Policy Exists
+## What Earns BITS
 
-Without this gate, Snake OS would attract one specific user type: **airdrop farmers**. Accounts that sign in once, play 100 solo games, claim every grind achievement, and dump tokens at launch — bringing nothing to the ecosystem.
+BITS are awarded across every surface of Snake OS:
 
-We chose a different audience: people who play because they like the game and people who hold the token because they believe in the project. Both groups have skin in the game; both deserve to be paid back.
+* **Snake game** — solo play, PvP matches, PvP wins, challenge attempts and wins, tournament entry
+* **Market** — purchasing items
+* **Social** — chat messages, adding friends
+* **Explorer** — Oracle sessions, Oracle CA scans, RADAR sessions and tab visits
+* **Wallet** — buying and selling tokens through the wallet
 
-## How You Qualify
+Each activity has daily caps so earning stays fair for everyone. The caps reset every 24 hours.
 
-Any **one** of these qualifies you forever:
+See [Achievements](achievements.md) for the full list of badge rewards + BITS amounts.
 
-### A. Make a Market Purchase
+## PvP SOL Claims — Works Now
 
-Buy literally anything in the MARKET app — even a 0.02 SOL powerup converts you from spectator to participant. Once you qualify, you stay qualified.
+PvP wager winnings and tournament prize payouts are paid in **SOL**. These claims work today:
 
-### B. Place a PvP Wager
+1. Win a PvP match or Tournament → server credits your claimable balance
+2. Open REWARDS → see your claimable SOL
+3. Tap CLAIM → SOL arrives in your wallet on-chain
 
-Deposit into any PvP match (even one you go on to lose). The on-chain deposit signature is what counts — joining a lobby without depositing does not qualify.
+No eligibility gate on SOL claims. If you won, you can claim.
 
-### C. Hold the token (Post-Launch Only)
+See [PvP Claims](pvp-claims.md) for the full claim flow.
 
-Once the token is live, holding any amount in your connected wallet qualifies you. Pre-launch this check is N/A — there's no token to hold yet.
+## Token Claims — Holder Gate (Post-Launch)
 
-## How the Gate Actually Works
+When the token launches, direct token reward claims require holding the token in your wallet. Any non-zero balance qualifies — no minimum beyond `balance > 0`.
 
-When you tap CLAIM on an achievement:
+Until the token is live, BITS accumulate in your balance. At launch, BITS convert proportionally from a weekly burn pool. No additional gate beyond holding the token applies to this conversion.
 
-1. Server checks `hasParticipated(your_user_id)`
-2. If yes → claim proceeds → the token credited to your balance
-3. If no → `403 { error: "participation_required" }` → frontend shows the lock icon + banner
-
-The check is re-evaluated on every claim attempt. So:
-
-* Achievement unlocked while you're a non-participant? → It stays unlocked. Banner shows it's locked behind participation.
-* You then make a market purchase or PvP deposit? → The same achievement is now claimable. Eligibility is retroactive within the gate.
-
-## What Solo Players Get (Without Token Rewards)
-
-Even non-participants get a lot:
-
-* ✅ Full access to solo Snake game forever
-* ✅ Leaderboard rankings (best-score driven)
-* ✅ Achievement unlocks (cosmetic badges)
-* ✅ BETA badge if among first 20
-* ✅ Profile, friends, chat, ORACLE scans (free), DEGEN feed, SNIPE feed
-* ✅ Full market browsing
-* ❌ the token claims
-
-## What Participants Get (Everything)
-
-* All of the above, PLUS:
-* ✅ Achievement the token claims (all tiers)
-* ✅ PvP claim winnings (already participant by definition)
-* ✅ Season prize eligibility (if also meeting MIN\_MATCHES/WAGER floors)
-* ✅ Future token buyback distributions (post-launch, weight based on activity + holdings)
+See [Token Status](../snake-token/status.md) and [Token Eligibility](../snake-token/eligibility.md).
 
 ## TL;DR
 
-| You...                            | You earn...                                                                   |
-| --------------------------------- | ----------------------------------------------------------------------------- |
-| Play 100 solo games               | Cosmetic achievements, leaderboard rank, no the token                         |
-| Buy a 0.02 SOL powerup            | All of above + retroactively claim all the token achievements you've unlocked |
-| Play a 0.01 SOL PvP match         | Same as above                                                                 |
-| Hold the token post-launch        | Same as above + future buyback distributions                                  |
-| Play nothing, just hold the token | token buyback distributions, no achievements                                  |
-
-Aligned. Honest. Hard to farm.
-
-## Pre-Launch Claim Behavior
-
-The token isn't live yet. Until it launches:
-
-- Any token reward CLAIM attempt fires a notification:
-  > *"⏳ [reward name] — TOKEN NOT LAUNCHED YET · claim opens at token launch"*
-- Toast persists for ~6 seconds at the top of the REWARDS screen
-- The achievement stays unlocked but uncollected — once the token launches, you'll be able to claim everything you've unlocked (subject to the participation gate above + the [holder gate](../snake-token/eligibility.md))
-
-This was previously a silent failure (case-sensitivity bug in the token-detection gate). Now token claims properly route to the coming-soon flow with explicit messaging instead of silently marking the reward as "claimed" without actually paying anything.
-
-## PvP SOL Claims Work Now
-
-PvP wager winnings and tournament prize payouts are paid in **SOL** (not the token). These claims work today — they don't require the token to be live. Open REWARDS, tap CLAIM on the PVP POT card, get paid on-chain.
-
-The participation gate (above) and holder gate (token-only) do NOT apply to SOL claims. If you won a PvP match, you can claim the SOL regardless of whether you hold the token.
+| You... | You earn... |
+| ------ | ----------- |
+| Play solo Snake | BITS + cosmetic achievements |
+| Win a PvP match | SOL winnings + BITS |
+| Make a market purchase | BITS + badge achievements |
+| Chat in global | BITS |
+| Use the Oracle | BITS |
+| Visit RADAR daily for a week | BITS + RADAR Watcher badge |
+| Buy/sell via the wallet | BITS + Degen Trader badge |
+| Hold tokens post-launch | Token buyback distributions |

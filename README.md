@@ -1,76 +1,54 @@
-# 🐍 Welcome to Snake OS
+# 🐍 Snake OS
 
-![Snake OS](<.gitbook/assets/Screenshot 2026-05-26 103559.png>)
+![](<.gitbook/assets/Screenshot 2026-05-26 103559.png>)
 
-> **A working Nokia 3310 you boot inside your phone. 25 Solana apps. Real-SOL Snake. AI risk scanner. Perp radar. Tokenized stocks.**
+> **A working Nokia 3310 inside your browser. Real-SOL Snake. AI token scanner. Perp radar. 25 Solana apps.**
 
-Snake OS is a consumer dApp shaped like a retro Nokia handset. Behind the keypad sits the full Solana stack — wallet, swap, on-chain risk scanning, perp signals, tokenized real-world equities, real-SOL 1v1 Snake duels, weekly tournaments, and more.
+Snake OS is a Solana-native app styled as a Nokia 3310 phone. Behind the keypad: real-money 1v1 Snake duels, pump.fun migration feed, AI risk scanner, live perp signals, tokenized stocks, global chat, and more — all inside one retro shell.
 
-## What's inside the phone
+---
 
-A complete tour by folder:
+## What's Inside
 
-### 🏠 Home (pinned)
-* 🐍 **[SNAKE](games/solo.md)** — the game itself. Solo, PvP, Challenge tiers, weekly Tournament
-* 💼 **[WALLET](wallet/overview.md)** — your connected Solana wallet view (balance, activity, send/receive)
-* 💸 **[BUY](buy/overview.md)** — Jupiter swap for any SPL token, POPULAR chips with wrapped BTC/ETH
+**Play**
+- 🐍 [Snake](snake.md) — Solo practice + real-SOL PvP wagering
+- ⚔ [PvP](pvp.md) — 0.05–0.50 SOL 1v1 matches; winner nets ~94% of the pot
+- 🎮 [Challenge & Tournament](modes.md) — House-bet tiers + weekly leaderboard competitions
 
-### 🔥 Degen folder
-* ⚔ **[PVP](pvp/overview.md)** — real-SOL 1v1 Snake matches (0.05–0.5 SOL)
-* 🔥 **[DEGEN](degen/overview.md)** — 3 tabs (Migrations / Trending / Boosted) of pump.fun + DexTools signal
-* 🎯 **[SNIPE](snipe/overview.md)** — real-time KOL wallet buys/sells
-* 🤣 **[MEMES](memes/overview.md)** — curated vertical-scroll meme feed
+**Discover**
+- 🔮 [ORACLE](apps.md#oracle) — AI risk scanner for any Solana CA + free-form chat
+- 📡 [RADAR](apps.md#radar) — Live perp signals: Hyperliquid + Phoenix funding, OI, liquidations, whale fills
+- 🔥 [DEGEN](apps.md#degen) — pump.fun migrations, trending, boosted
+- 🎯 [SNIPE + CT FEED + STOCKS](apps.md) — KOL wallet tracker, X feed, tokenized equities
 
-### 📊 Analytics folder
-* 📊 **[MARKET WATCH](market-watch/overview.md)** — BTC/ETH/SOL charts + tickers
-* 📡 **[RADAR](radar/overview.md)** — 5 tabs of Hyperliquid + Phoenix perp flow (Splits / Hyper / Phx / Whales / Positions)
-* 🔮 **[ORACLE](oracle/overview.md)** — AI co-pilot (CA risk scan + free chat, Gemini + DeepSeek)
-* 📈 **[STOCKS](stocks/overview.md)** — 130+ tokenized real-world equities via Backed Finance xStocks
+**Earn**
+- ⚡ [BITS](bits-rewards.md) — Soft currency earned across every app. Stacks now, converts to tokens at launch.
+- 🏅 [Achievements](bits-rewards.md#achievements) — 18 badges with BITS rewards, no participation gate
+- 🏆 [Leaderboard](bits-rewards.md#leaderboard-bits) — Weekly BITS for top 10 on SOLO + PVP; monthly for SEASON
 
-### 💬 Social folder
-* 💬 **[CHAT](social/chat.md)** — global Snake OS chat
-* 🧵 **[COMMUNITIES](communities/overview.md)** — per-token discussion threads (CoinCommunities-powered)
-* 🐦 **[CT FEED](ct-feed/overview.md)** — curated X posts from Solana KOLs
-* 👥 **[FRIENDS](social/friends.md)** — friend system with online presence
-* 🔗 **[SOCIALS](social/link-hub.md)** — in-app link hub
+---
 
-### 🎒 Collection folder
-* 🛒 **[MARKET](market/overview.md)** — cosmetic marketplace (skins, themes, arenas, PFPs, badges, bundles)
-* 🎒 **[LOCKER](locker/overview.md)** — equip purchased cosmetics
-* 📜 **[HISTORY](history/overview.md)** — your full match history
+## Important — Read First
 
-### 🏆 Achievements folder
-* 🏆 **[LEADERBOARD](rewards/leaderboard.md)** — solo + PvP all-time rankings
-* 🎖 **[ACHIEVEMENTS](rewards/achievements.md)** — tiered badge system
-* 💰 **[REWARDS](rewards/pvp-claims.md)** — claim PvP winnings + season prize pool
+> **Token is NOT live.** BITS accumulate now and carry forward to launch. See [Token](token.md).
 
-### ⚙ System folder
-* Settings, Controls, Help
+> **PvP uses REAL Solana mainnet SOL.** Your wager is on-chain the moment you deposit. Read [How PvP Works](pvp.md) before playing for money.
 
-## What makes it different
+> **BETA badge: 20 OG slots.** First 20 wallets to accept the Terms get a permanent badge — can never be earned again after public launch. See [Getting Started](getting-started.md).
 
-* 🎮 **Real game, real wagers** — PvP matches escrowed on Solana mainnet. Winner nets \~94% of the combined pot. Challenge mode pays out instantly on win. Weekly tournaments split the pot by finish position.
-* 📱 **Retro phone UI** — 25 apps inside one Nokia shell. Number keys, D-pad, no clutter.
-* 🪙 **Fair launch token** — when the token ships, it'll be on pump.fun with no presale, no team allocation, no insider unlocks. Target: Week 3 of the public roadmap.
-* 🚫 **No airdrop farming** — rewards are gated to active participants (PvP wagers, market spend, or tokens held). Solo grinders get cosmetic badges, not tokens.
-* 🔒 **Anti-clone hardened** — origin-locked API, signed-wallet auth, race-safe escrow. Your stake is safe.
-* 📱 **Ships everywhere** — web at [snake-os.com](https://snake-os.com), Phantom dApp Portal (Trending sidebar), Solana Mobile dApp Store on Seeker.
+---
 
 ## Quick Links
 
-* 🚀 [Get Started in 5 Minutes](getting-started/first-five-minutes.md)
-* ⚔ [How PvP Works](pvp/overview.md)
-* 🪙 [About the token](snake-token/status.md)
-* 🛠 [Troubleshooting](faq/general.md)
+| | |
+|---|---|
+| 🚀 New here? | [Getting Started](getting-started.md) |
+| ⚔ Want to wager? | [PvP Guide](pvp.md) |
+| ⚡ Earning BITS? | [BITS & Rewards](bits-rewards.md) |
+| 🔮 Risk-scan a token? | [ORACLE](apps.md) |
+| 🪙 Token status? | [Token](token.md) |
+| 🛠 Something broken? | [FAQ](faq.md) |
 
-## Important — Read This First
+---
 
-> **token is NOT live yet.** Any UI showing "claimable token rewards" is a placeholder. No tokens accumulate during the beta. See [Token Status](snake-token/status.md).
-
-> **PvP uses REAL Solana mainnet SOL.** Your wager is on-chain the moment you deposit. Make sure you understand [How PvP Works](pvp/overview.md) before playing for money.
-
-> **Beta is capped at 20 OG slots.** First 20 wallets to accept the Terms get the permanent BETA badge — forever a flex that can never be earned again after public launch.
-
-***
-
-_Built on Solana mainnet. Custodial escrow during beta, transitioning to KMS / multi-sig at scale. Domain:_ [_snake-os.com_](https://snake-os.com)_._
+*Solana mainnet. Custodial escrow during beta, transitioning to KMS / multi-sig at scale. Domain: [snake-os.com](https://snake-os.com).*
