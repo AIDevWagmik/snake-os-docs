@@ -60,6 +60,23 @@ BITS-to-token exchange via the weekly burn pool does **not** require holding the
 
 ---
 
+## Holder Multiplier
+
+Token holders get a bonus multiplier on their weekly BITS burn. At settlement, your **effective BITS = burned BITS × multiplier**. The pool is then split proportionally on effective BITS — holders earn a larger share without changing the total pool size.
+
+| Tier | Tokens held | Multiplier |
+|------|-------------|------------|
+| Holder | 100,000+ (0.01% of supply) | 1.2× |
+| Diamond | 1,000,000+ (0.1% of supply) | 1.5× |
+| Whale | 10,000,000+ (1% of supply) | 2× |
+| No tokens | — | 1× |
+
+**Balance is checked at week-end settlement** (Sunday midnight UTC), not at claim time. You can't buy tokens right before claiming then sell immediately — the snapshot already happened.
+
+Hold in the wallet you connect with. Holdings in a different wallet don't count.
+
+---
+
 ## Before Launch — What to Do
 
 Nothing special. Keep using Snake OS. Every game, trade, scan, and chat message earns BITS that will convert at launch. The REWARDS screen shows your current BITS balance.
