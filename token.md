@@ -36,7 +36,7 @@ The Snake OS team will buy on the launch curve the same as everyone else. The tr
 
 | Source | Amount |
 |--------|--------|
-| Weekly burn pool | 1,000,000 tokens / week |
+| Weekly burn pool | 2,000,000 tokens / week |
 | Funded by | Treasury holdings + PvP/market fee conversions |
 
 Users burn their BITS each week for a proportional share of that week's pool. The more BITS you've accumulated, the larger your share.
@@ -66,9 +66,9 @@ Token holders get a bonus multiplier on their weekly BITS burn. At settlement, y
 
 | Tier | Tokens held | Multiplier |
 |------|-------------|------------|
-| Holder | 100,000+ (0.01% of supply) | 1.2× |
-| Diamond | 1,000,000+ (0.1% of supply) | 1.5× |
-| Whale | 10,000,000+ (1% of supply) | 2× |
+| Holder | 100,000+ (0.01% of supply) | 1.25× |
+| Believer | 1,000,000+ (0.1% of supply) | 1.5× |
+| Whale | 5,000,000+ (0.5% of supply) | 2× |
 | No tokens | — | 1× |
 
 **Balance is checked at week-end settlement** (Sunday midnight UTC), not at claim time. You can't buy tokens right before claiming then sell immediately — the snapshot already happened.
