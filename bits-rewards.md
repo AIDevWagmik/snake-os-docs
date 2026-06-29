@@ -97,6 +97,6 @@ If claim fails: your balance is restored atomically. Safe to retry.
 
 ## Token Launch
 
-BITS accumulate now and carry forward. When the token launches, a weekly burn pool opens (1,000,000 tokens/week). Users burn their BITS for a proportional share of that week's pool. The more BITS you've stacked, the larger your share.
+BITS accumulate now and carry forward. When the token launches, a weekly burn pool opens (2,000,000 tokens/week). Users burn their BITS for a proportional share of that week's pool. The more BITS you've stacked, the larger your share.
 
 > The token is **not live yet**. The REWARDS screen shows a placeholder for the exchange. No action needed until launch.

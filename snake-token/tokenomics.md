@@ -29,7 +29,7 @@ The treasury holds 5–10% initially and grows over time via buybacks. Distribut
 
 The primary distribution mechanism post-launch. Every week:
 
-* **1,000,000 tokens per week** allocated from treasury
+* **2,000,000 tokens per week** allocated from treasury
 * Supplemented by a share of PvP/market SOL fees converted via open-market buybacks
 * Each user's share = `their BITS / total BITS` × weekly pool
 * BITS are earned across all Snake OS apps (gaming, social, trading, exploring) and through achievement badge claims

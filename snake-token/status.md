@@ -33,7 +33,7 @@
 
 Every week after launch, a fixed amount of tokens flows through the burn pool:
 
-* **1,000,000 tokens per week** allocated from the treasury
+* **2,000,000 tokens per week** allocated from the treasury
 * Supplemented by a share of PvP/market SOL fees converted to tokens via buybacks
 * Your share = `your BITS / total BITS in circulation` × weekly pool
 
